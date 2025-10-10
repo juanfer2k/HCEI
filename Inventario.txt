@@ -1,0 +1,19 @@
+Gracias es más completo de lo que pensaba! Mis recomendaciones: 
+
+Reparar css para estilo claro en los cuadros del formulario
+
+Historial guardado
+
+    JSON.parse: unexpected character at line 1 column 1 of the JSON data
+
+ Nombre de la ambulancia (eliminar)
+Placa (tomar el select de la BD)
+Fecha (dejarla a Automatica)
+Responsable general (eliminar)
+Auditor interno (eliminar)
+
+
+Las fechas en cada ítem, no son necesarias al menos no en todos. buscaré uan forma de requerir o no esa casilla. dejemoslas intactas por ahora.
+Los medicamentos no tiene nserial sino "Registro Invima" "Lote" y "fecha de Vencimiento"
+La Camilla secundaria o de tablas con correas es la misma Tabla espinal larga con correas, quita la segunda.
+

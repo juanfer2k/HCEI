@@ -1,0 +1,20 @@
+9:37 a. m. 5/09/2025
+[Seguridad Avanzada con PDO]
+Tutorial buenas prácticas seguridad PHP:
+https://dinogeek.me/ES/PHP/Cuales-son-las-mejores-practicas-de-seguridad-en-PHP.html
+
+[Backup Automatizado desde Frontend]
+Guía para crear backup MySQL con PHP:
+https://www.gpsos.es/2020/04/creacion-de-un-backup-de-mysql-con-php/
+Script ejemplo respaldo MySQL:
+https://oregoom.com/php/realizar-respaldo-mysql/
+
+[Asistencia Paramédicos]
+Repositorio asistencia en PHP/MySQL (adaptable):
+https://github.com/parzibyte/asistencia-php
+Demo y explicación en YouTube:
+https://www.youtube.com/watch?v=oXz6g-Ox_J0
+
+[Mejoras en Custodia de Datos]
+Resumen de mejores prácticas de seguridad y privacidad PHP:
+https://www.vaadata.com/blog/php-security-best-practices-vulnerabilities-and-attacks/

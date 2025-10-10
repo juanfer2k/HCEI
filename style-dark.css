@@ -1,0 +1,161 @@
+﻿/* Dark Theme Styles */
+[data-bs-theme="dark"] body {
+    background-color: #2a3038; /* Un gris azulado oscuro, menos negro que antes */
+    color: #e1e1e1; /* Texto un poco menos brillante para reducir contraste */
+}
+
+[data-bs-theme="dark"] .form-container,
+[data-bs-theme="dark"] .document-view,
+[data-bs-theme="dark"] .card {
+    background-color: #343a42 !important; /* Un gris ligeramente mas claro para los contenedores */
+    color: #e1e1e1;
+    border: 1px solid #4a5159; /* Borde sutil */
+}
+
+[data-bs-theme="dark"] .navbar {
+    background-color: #343a42 !important;
+    border-bottom: 1px solid #4a5159;
+}
+
+[data-bs-theme="dark"] .form-control,
+[data-bs-theme="dark"] .form-select {
+    background-color: #2a3038; /* Fondo igual al del body para integracion */
+    color: #e1e1e1;
+    border-color: #555c66; /* Borde un poco mas visible */
+}
+
+[data-bs-theme="dark"] .form-control:focus,
+[data-bs-theme="dark"] .form-select:focus {
+    background-color: #343a42;
+    color: #fff;
+    border-color: #80bdff; /* Un azul suave para el foco */
+    box-shadow: 0 0 0 .25rem rgba(13, 110, 253, .15); /* Sombra mas sutil */
+}
+
+[data-bs-theme="dark"] .section-header {
+    border-bottom-color: #555c66;
+}
+
+[data-bs-theme="dark"] .section-header h3 {
+    color: #a6cfff; /* Un azul mas claro y suave */
+}
+
+[data-bs-theme="dark"] .field-label,
+[data-bs-theme="dark"] .card-title,
+[data-bs-theme="dark"] .card-text,
+[data-bs-theme="dark"] .page-link,
+[data-bs-theme="dark"] label,
+[data-bs-theme="dark"] .form-check-label {
+    color: #c5c8ca; /* Gris claro para etiquetas, mejor legibilidad */
+}
+/* Estilo para las etiquetas de campo en la vista de detalle (modo oscuro) */
+[data-bs-theme="dark"] .field-label {
+    background-color: #2a3038;
+    padding: 3px 6px;
+    border-radius: 4px;
+    border: 1px solid #4a5159;
+    color: #a6cfff; /* Mismo azul suave que los titulos de seccion */
+}
+
+/* Estilo para los valores de campo en la vista de detalle (modo oscuro) */
+[data-bs-theme="dark"] .document-view .field-value {
+  background-color: #4a4a4a !important;
+  border-radius: 4px !important;
+  padding: 8px !important;
+  min-height: 38px !important;
+  color: #d1deff !important;
+}
+
+[data-bs-theme="dark"] .signature-pad {
+    background-color: #e1e1e1; /* Fondo claro para la firma, para que el trazo oscuro resalte */
+}
+
+[data-bs-theme="dark"] .dropdown-menu {
+    background-color: #343a42;
+    border-color: #4a5159;
+}
+[data-bs-theme="dark"] .dropdown-item { color: #c5c8ca; }
+[data-bs-theme="dark"] .dropdown-item:hover { background-color: #495057; }
+
+/* Fondos de seccion especificos para el tema oscuro */
+/* Se eliminan los gradientes y se usa un color base uniforme para un look mas limpio y profesional */
+[data-bs-theme="dark"] .form-section.internal {
+    background-image: linear-gradient(135deg, rgba(84, 96, 110, 0.95), rgba(58, 66, 78, 0.95));
+    border-color: rgba(134, 149, 166, 0.55);
+}
+
+[data-bs-theme="dark"] .form-section.insurance {
+    background-image: linear-gradient(135deg, rgba(88, 110, 86, 0.92), rgba(54, 70, 52, 0.92));
+    border-color: rgba(140, 173, 138, 0.5);
+}
+
+[data-bs-theme="dark"] .form-section.patient {
+    background-image: linear-gradient(135deg, rgba(108, 79, 123, 0.9), rgba(70, 49, 86, 0.9));
+    border-color: rgba(168, 132, 193, 0.55);
+}
+
+[data-bs-theme="dark"] .form-section.context {
+    background-image: linear-gradient(135deg, rgba(125, 87, 51, 0.9), rgba(92, 60, 31, 0.9));
+    border-color: rgba(200, 150, 105, 0.5);
+}
+
+[data-bs-theme="dark"] .form-section.clinical {
+    background-image: linear-gradient(135deg, rgba(58, 105, 105, 0.92), rgba(38, 78, 78, 0.92));
+    border-color: rgba(118, 179, 179, 0.5);
+}
+
+[data-bs-theme="dark"] .form-section.glasgow {
+    background-image: linear-gradient(135deg, rgba(126, 114, 62, 0.9), rgba(96, 82, 42, 0.9));
+    border-color: rgba(206, 190, 118, 0.55);
+}
+
+[data-bs-theme="dark"] .form-section.antecedentes {
+    background-image: linear-gradient(135deg, rgba(90, 73, 120, 0.9), rgba(60, 47, 85, 0.9));
+    border-color: rgba(155, 132, 190, 0.55);
+}
+
+[data-bs-theme="dark"] .form-section.firmas {
+    background-image: linear-gradient(135deg, rgba(66, 90, 120, 0.92), rgba(40, 60, 82, 0.92));
+    border-color: rgba(130, 160, 195, 0.5);
+}
+
+[data-bs-theme="dark"] .form-section.adjuntos {
+    background-image: linear-gradient(135deg, rgba(80, 78, 96, 0.92), rgba(52, 50, 70, 0.92));
+    border-color: rgba(150, 148, 172, 0.55);
+}
+
+[data-bs-theme="dark"] .form-section {
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03), 0 10px 25px -18px rgba(0, 0, 0, 0.8);
+    transition: border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+[data-bs-theme="dark"] .form-section:hover {
+    border-color: rgba(200, 210, 220, 0.55);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.06), 0 18px 32px -20px rgba(0, 0, 0, 0.9);
+}
+
+[data-bs-theme="dark"] .btn-outline-primary {
+    color: #a6cfff;
+    border-color: #a6cfff;
+}
+
+[data-bs-theme="dark"] .btn-outline-primary:hover {
+    background-color: #a6cfff;
+    color: #2a3038;
+}
+
+[data-bs-theme="dark"] .page-item.active .page-link {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    color: #fff;
+}
+
+[data-bs-theme="dark"] .page-link {
+    background-color: #2a3038;
+    border-color: #4a5159;
+}
+
+[data-bs-theme="dark"] .fixed-bottom {
+    background-color: #343a42 !important;
+    border-top: 1px solid #4a5159;
+}
