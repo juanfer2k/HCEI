@@ -1,0 +1,3027 @@
+CIRCULAR 8 DE 2023
+(abril 11)
+<Fuente: Archivo interno entidad emisora>
+ADMINISTRADORA DE LOS RECURSOS DEL SISTEMA GENERAL DE SEGURIDAD
+SOCIAL EN SALUD
+Para: Prestadores de Servicios de Salud y personas naturales que presenten reclamaciones
+por los conceptos establecidos en el Artículo 167 de la Ley 100 de 1993 y entidades
+aseguradoras autorizadas para expedir las pólizas SOAT.
+De: Administradora de los Recursos del Sistema General de Seguridad Social en Salud
+(ADRES)
+Asunto: Formularios para la presentación de reclamaciones ante las entidades aseguradoras
+autorizadas para expedir las pólizas SOAT y la ADRES, para el reconocimiento y pago
+de los Servicios de Salud, indemnizaciones y gastos derivados de accidentes de
+tránsito, eventos catastróficos de origen natural, eventos terroristas y demás eventos
+aprobados por el Ministerio de Salud y Protección Social en su calidad de Consejo de
+Administración del FOSYGA y formulario a presentar por las aseguradoras con la
+información de agotamiento de tope Decreto 2497/22.
+El Director General de la Administradora de los Recursos del Sistema General de Seguridad Social
+en Salud - ADRES, actuando de conformidad con la facultad prevista en el artículo 2.6.1.4.4.5 del
+Decreto 780 de 2016, así como el artículo 2.6.4.3.5.2.2 modificado por el Decreto 2265 del 2017, el
+Decreto 2644 del 2022 y en desarrollo de la Resolución 1645 de 2016, adopta con el anexo técnico
+de la presente Circular, los formularios para la presentación de reclamaciones ante las entidades
+aseguradoras autorizadas para expedir las pólizas SOAT y la ADRES, para el reconocimiento y pago
+de los servicios de salud, indemnizaciones y gastos derivados de accidentes de tránsito, eventos
+catastróficos de origen natural, eventos terroristas y demás eventos aprobados por el Ministerio de
+Salud y Protección Social, y el formulario único de certificado de Tope de la Aseguradora SOAT,
+los cuales serán exigibles en el proceso de radicación de reclamaciones ante la ADRES a partir del
+día 01 de junio de 2023 y en el proceso de radicación de reclamaciones ante las Aseguradoras del
+SOAT a partir del 1 de julio de 2023.
+Cordialmente,
+FÉLIX LEÓN MARTÍNEZ
+Director General de la ADRES
+ANEXO TÉCNICO.
+1. REQUISITOS COMUNES DE DILIGENCIAMIENTO.
+Los formularios adoptados con el presente documento deberán diligenciarse de acuerdo con los
+criterios que se enuncian a continuación:
+- Los formularios FURIPS (formulario único de reclamación de las instituciones prestadoras de
+servicios de salud por servicios prestados a víctimas de eventos catastróficos y accidentes de
+tránsito), FURPEN (formulario único de reclamación de indemnizaciones por accidentes de tránsito
+y eventos catastróficos) y FURTRAN (formulario único de reclamación de gastos de transporte y
+movilización de víctimas) deberán ser diligenciados de manera individual para cada paciente y
+reclamación que se presente.
+- El formulario FUCTAS (Certificado de Tope de Aseguradoras del SOAT) deberá ser diligenciado
+por las Aseguradoras del SOAT y transmitido dentro de los primeros cinco (5) días hábiles de cada
+mes a través de los canales que la ADRES habilite para el efecto, la información relacionada con los
+valores aprobados por servicios de salud prestados a víctimas cuyo vehículo involucrado contaba
+con póliza SOAT adquirida a la tarifa diferencial establecida en el Decreto 2497 de 2022 cuando se
+agote el tope establecido en el referido Decreto o la norma que lo modifique o sustituya.
+- El formulario FURCEN (certificación del censo de víctimas-eventos catastróficos) deberá ser
+diligenciado por los consejos municipales o distritales de gestión del riesgo de la respectiva entidad
+territorial en donde ocurrió el evento catastrófico de origen natural o terrorista.
+2. REQUISITOS GENERALES PARA EL DILIGENCIAMIENTO DE FORMULARIOS.
+En el caso de los prestadores de servicios de salud, el formulario de presentación de reclamaciones
+deberá contener la firma digital de personería jurídica o representación legal, expedida por una
+entidad autorizada a nivel nacional, previa validación en la malla validadora.
+Las reclamaciones presentadas ante la ADRES, deberán realizarse a través de la herramienta
+electrónica de radicación dispuesta por la Entidad, en virtud de lo establecido en la Resolución 4338
+de 2018, modificada por las resoluciones 21621 de 2019 y 3025 de 2020 o la norma que lo
+modifique o sustituya.
+Los Formularios adoptados en la presente circular, deberán cumplir con los siguientes requisitos:
+2.1. ESPECIFICACIONES TECNOLÓGICAS PARA LA REMISIÓN DE INFORMACIÓN.
+Los archivos deben ser tipo texto y deben cumplir con las siguientes especificaciones técnicas:
+a) Todos los datos deben ser grabados en el archivo plano como alfanuméricos, con extensión.txt.
+b) El separador de campos debe ser coma (,) y ser usado exclusivamente para este fin.
+c) Cuando el dato no lleve valor (blanco), igual se debe incluir el campo separado por comas (,,).
+d) Ningún dato en el campo debe venir encerrado entre comillas (“”) ni cualquier otro carácter
+especial.
+e) Los campos tipo fecha deben tener el formato día/mes/año (DD/MM/AAAA) incluido el carácter
+slash (/).
+f) Los campos numéricos deben venir sin separación de miles.
+g) No debe traer ningún carácter especial de fin de archivo ni de registro
+h) Las longitudes contenidas en los cuadros se deben entender como el tamaño MÁXIMO del
+campo.
+i) Los campos texto donde se solicita una descripción del evento no deben incluir la coma (,).
+j) Los valores registrados en los archivos planos no deben tener ninguna justificación, por lo tanto,
+no se les debe completar con cero ni espacios, especialmente en los campos número de
+identificación, apellidos y nombres.
+k) Todos los campos son de obligatorio diligenciamiento, excepto aquellos respecto de los cuales
+expresamente se indique alguna excepción o condición.
+3. INSTRUCTIVO DE DILIGENCIAMIENTO DEL FORMULARIO ÚNICO DE
+RECLAMACIÓN DE LAS INSTITUCIONES PRESTADORAS DE SERVICIOS DE SALUD -
+FURIPS 1.
+Este formulario aplica para reclamaciones presentadas por Prestadores de Servicios de Salud para el
+reconocimiento y pago de atenciones en salud o transporte desde el sitio del evento al primer centro
+de atención.
+I. DATOS DE LA RECLAMACIÓN
+- Número de Radicado Anterior. Campo diligenciado por el Prestador de Servicios de Salud en los
+casos en que la presentación corresponda a una reclamación por pago parcial o respuesta a glosa.
+Debe escribirse el número de radicado dado por la ADRES en la primera presentación.
+- RG Respuesta a Glosa u objeción: Este campo es de obligatorio diligenciamiento cuando
+corresponda a presentación de subsanación u objeción a la glosa.
+- Número de factura o documento equivalente: Número que corresponde al sistema de numeración o
+consecutivo de cada entidad según las disposiciones de la DIAN.
+- Número consecutivo de la reclamación. Número interno asignado por el prestador de servicios de
+salud.
+II. DATOS DEL PRESTADOR DE SERVICIOS DE SALUD
+- Código de habilitación del prestador: Escriba el código del prestador asignado por la Dirección
+Departamental o Distrital de Salud, conforme a las normas vigentes, al realizar la inscripción en el
+Registro Especial de Prestadores de Servicios de Salud. Este campo es de obligatorio
+diligenciamiento.
+III. DATOS DE LA VÍCTIMA DEL EVENTO CATASTRÓFICO O ACCIDENTE DE TRÁNSITO
+- Primer Apellido, Segundo Apellido, Primer Nombre, Segundo Nombre: Escriba los nombres y
+apellidos de la víctima se debe diligenciar en cada una de las casillas diseñadas para cada campo.
+Estos campos son de obligatorio diligenciamiento.
+- Tipo de Documento de Identidad: Este campo es de obligatorio diligenciamiento. Diligencie el tipo
+de documento, según corresponda:
+CC = Cédula de Ciudadanía.
+CE = Cédula de Extranjería.
+CN = Certificado de Nacido Vivo
+PA = Pasaporte.
+RC = Registro Civil.
+TI = Tarjeta de Identidad.
+AS = Adulto sin identificación.
+MS = Menor sin identificación
+PT = Permiso por Protección Temporal
+E = Permiso Especial de Permanencia
+SC = Salvoconducto
+CD = Carné Diplomático
+DE = Documento Extranjero
+En los casos en los cuales la víctima no tenga identificación y no sea posible obtener la misma por
+parte de la institución prestadora de servicios de salud, su identificación corresponderá al tipo AS
+(Adulto sin identificar) o MS (Menor sin identificar), según sea el caso y su número de conformidad
+con la siguiente tabla de la Resolución 4622 de 2016 se señalará así:
+Condición
+Tipo de
+Documento LongitudMáxima
+Composición del número de
+identificación
+Personas de la tercera edad
+en protección de ancianatos.
+AS
+10 Código de departamento + código de
+municipio + S + consecutivo por
+afiliado (Alfanumérico). Ej:
+08001S8125
+Indígenas mayores de edad AS
+10 Código de departamento + código de
+municipio + I + consecutivo por
+afiliado (Alfanumérico de 4). Ej:
+76001I8125
+Habitantes de la calle
+mayores de edad.
+AS
+10 Código de departamento + municipio
++ D + consecutivo por afiliado
+(Alfanumérico de 4). Ej:
+05001D0008
+Habitantes de la calle
+menores de edad.
+MS
+10 Departamento + municipio + D +
+consecutivo por afiliado (4 dígitos).
+Ej: 05001D0008 Código de
+departamento + código de municipio
++ A + consecutivo por afiliado
+(Alfanumérico de 4). Ej:
+25001A0009
+Población infantil vulnerable
+bajo protección en
+instituciones diferentes al
+ICBF.
+MS
+10
+Menores de edad a cargo del
+ICBF.Indígenas menores de
+edad
+MS
+12 Código de departamento + código de
+municipio + I + consecutivo por
+afiliado (Alfanumérico de 4). Ej:
+080014I8125.Solo aplica para
+Régimen Subsidiado.
+Menores de edad
+desmovilizados y/o que
+celebren acuerdos de paz con
+el Gobierno nacional.
+MS
+10 Departamento + municipio + P +
+consecutivo por afiliado (4 dígitos).
+Ej: 05001P0008 *Las entidades
+Territoriales y las EPSS deben
+gestionar la plena identificación del
+menor y reportar la actualización del
+documento a la BDUA.
+Mayores de edad
+desmovilizados y/o que
+celebren acuerdos de paz con
+el Gobierno nacional
+AS
+10 Departamento + municipio + P +
+consecutivo por afiliado (4 dígitos).
+Ej: 05001P0008. *Las entidades
+Territoriales y las EPSS deben
+gestionar la plena identificación de
+esta población y reportar la
+actualización del documento a la
+BDUA.
+Población privada de la
+libertad a cargo de las
+entidades territoriales
+MS
+6 Número asignado por el INPEC. Para
+menores de tres (3) años que
+convivan con sus madres recluidos
+en los establecimientos a cargo del
+INPEC.
+AS Número asignado por el INPEC. Para internos recluidos
+en los establecimientos de reclusión a cargo del INPEC.
+Para las víctimas extranjeras con identificación, es decir, presenta un documento de identificación de
+su país natal, se utiliza el tipo de documento DE y el número del documento que presenta la víctima.
+Para las víctimas extranjeras que no presentan identificación se utiliza el documento MS, AS y el
+número de documento debe registrarse aplicando las especificaciones de las circulares externas 029
+de 2017 y 024 de 2019 expedidas por del Ministerio de Salud y Protección Social
+- Número de Documento: Escriba el número de documento de identidad correspondiente a la
+víctima. Este campo es de obligatorio diligenciamiento.
+- Fecha de Nacimiento: Escriba la fecha de nacimiento en el formato día, mes, año, DD/MM/AAAA.
+Si su solicitud es ante el ADRES, este campo es de obligatorio diligenciamiento.
+- Fecha de Fallecimiento: Campo obligatorio si el paciente fallece en la atención. DD/MM/AAAA
+- Sexo: Relacione según corresponda la víctima. M para Masculino F para Femenino y O para otros,
+este campo es de obligatorio diligenciamiento.
+- Dirección, Teléfono, Departamento y Municipio de Residencia: Diligencie los datos de ubicación
+de la víctima, estos campos son de obligatorio diligenciamiento. Cuando la víctima haya fallecido,
+se diligenciará la información del familiar acompañante acudiente.
+- Condición de la víctima: Este campo es de obligatorio diligenciamiento cuando se trate de
+accidente de tránsito. (Ver parámetros técnicos de la tabla 1 de la presente circular).
+IV. DATOS DEL SITIO DONDE OCURRIÓ EL EVENTO CATASTRÓFICO O ACCIDENTE DE
+TRÁNSITO
+- Naturaleza del Evento: Relacione el código correspondiente al tipo de Evento que corresponda
+(Ver parámetros técnicos de la tabla 1.1 de la presente circular). Cuando el tipo de evento no se
+encuentre en la clasificación del formulario, deberá diligenciarse en el campo “otros” el número de
+acto administrativo mediante el cual se declaró el otro tipo de evento.
+- Descripción del otro evento: Descripción corta del evento
+- Dirección de la ocurrencia, departamento, municipio: Escribir los datos de ubicación donde ocurrió
+el evento catastrófico o accidente de tránsito.
+- Zona: relacione la sigla correspondiente así: Zona U= Urbana, R= Rural. Si su reclamación es ante
+el ADRES.
+- Fecha y Hora del Accidente o Evento catastrófico: Escribir la fecha en formato DD/MM/AAAA y
+la hora en formato 24 horas, hh:mm.
+V. DATOS DEL VEHÍCULO INVOLUCRADO EN EL ACCIDENTE DE TRÁNSITO
+Diligencie la información de esta sección únicamente cuando la reclamación corresponda a servicios
+de salud prestados a víctimas de accidente de tránsito. Para todos los casos la fuente de información
+será la que se tome de la tarjeta de propiedad del vehículo o de la póliza SOAT según corresponda,
+con excepción del número de póliza.
+Estado de Aseguramiento del Vehículo: Diligenciar según corresponda de acuerdo con los
+parámetros técnicos de la tabla 1 de la presente circular:
+- Asegurado: Si en la fecha del accidente existe póliza de seguro SOAT, siendo obligatorio los datos
+que identifiquen plenamente el propietario y conductor del vehículo.
+- No Asegurado: Si no existe póliza de seguro SOAT o si la póliza está vencida, siendo obligatorio
+los datos que identifiquen plenamente el propietario y conductor del vehículo.
+- Vehículo Fantasma: Cuando se desconoce el número de placa del vehículo que ocasionó el
+accidente y la IPS no cuenta dato alguno para ser registrados.
+- Póliza falsa: Si el vehículo involucrado en el momento del accidente presenta póliza falsa. Es
+obligatorio los datos que identifiquen plenamente el propietario y conductor del vehículo.
+- Vehículo en fuga: Si conoce por lo menos el número de la placa y se desconocen los demás
+- Asegurado D. 2497: Cuando el vehículo involucrado en el momento del accidente contaba con
+póliza de rango diferencial por riesgo del SOAT, en virtud del Decreto 2497 de 2022 o la norma que
+lo modifique o sustituya. Es obligatorio los datos que identifiquen plenamente el propietario y
+conductor del vehículo.
+- No asegurado: Propietario Indeterminado: Si el vehículo que ocasionó el accidente no tiene póliza
+de seguro SOAT vigente y se desconoce el propietario del vehículo. Es obligatorio los datos que
+identifiquen plenamente el conductor del vehículo.
+Marca del vehículo: Utilizar el espacio asignado escribiendo con claridad la marca del
+vehículo involucrado en el accidente.
+Número de Placa: Escribir en cada una de las casillas con claridad las letras y los números de
+la placa del vehículo involucrado en el accidente. No se deben registrar guiones, asteriscos,
+ni información diferente a letras y números.
+La placa reportada deberá corresponder con la información registrada en el RUNT, si la información
+es inconsistente la reclamación será anulada por el sistema.
+Tipo de Vehículo: Marque el servicio del vehículo involucrado en el accidente de acuerdo
+con lo siguiente:
+1 = Automóvil
+2 = Bus
+3 = Buseta
+4 = Camión
+5 = Camioneta
+6 = Campero
+7 = Microbús
+8 = Tractocamión
+10 = Motocicleta
+14 = Motocarro
+17 = Moto triciclo
+19 = Cuatrimoto
+20 = Moto Extrajera: Automotor destinado a satisfacer las necesidades privadas de movilización de
+personas con placas de un país extranjero.
+21 = Vehículo Extranjero: Vehículo Automotor destinado a satisfacer las necesidades privadas de
+movilización de personas con placas de un país extranjero
+22 = Volqueta
+Este campo es de obligatorio diligenciamiento sólo cuando el estado del vehículo es Asegurado, No
+asegurado, Póliza falsa, o Vehículo en Fuga y Asegurado D. 2497.
+Código de la Aseguradora: Campo obligatorio cuando el vehículo involucrado contaba con
+póliza SOAT a tarifa diferencial de acuerdo con el Decreto 2497 o presentó póliza falsa.
+Corresponde a la compañía de Seguros que expidió la póliza, el cual deberá diligenciarse, de
+acuerdo con el código “AT” que se informe en la caratula de la póliza. Este campo es de obligatorio
+diligenciamiento, sólo cuando el estado del vehículo es «Asegurado D. 2497».
+La ADRES no es una aseguradora de vehículos por lo tanto no debe ir ningún código si el vehículo
+es no asegurado.
+Número de la Póliza: Campo obligatorio cuando el vehículo está asegurado o con póliza
+falsa. La fuente de información para este caso será la que se tome del SOAT. Este campo es
+de obligatorio diligenciamiento sólo cuando el estado del vehículo es Asegurado D. 2497.
+Fecha de Vigencia de Póliza: Campo obligatorio cuando el vehículo está asegurado D. 2497
+o con póliza falsa. El formato de la fecha es DD/MM/AAAA.
+Número de radicado SIRAS: Se deberá registrar el número id_atención, generado por el
+sistema SIRAS cuando la IPS reporta la atención.
+Cobro por excedente de la póliza: Campo obligatorio cuando el vehículo involucrado
+contaba con póliza SOAT adquirida a tarifa diferencia en virtud del Decreto 2497 del 2022 y
+se realice el cobro a la ADRES una vez superados los topes de cobertura reconocidos por las
+aseguradoras.
+VI. DATOS RELACIONADOS CON LA ATENCIÓN DE LA VÍCTIMA
+- Código CUPS de servicio principal de hospitalización: Campo obligatorio cuando se reclame
+estancia, se debe registrar el código CUPS del servicio principal que originó la hospitalización de la
+víctima.
+- Complejidad del servicio prestado: Se debe registrar de acuerdo con la complejidad de la IPS.
+1 = Alta
+2= Media
+3 = Baja
+Se debe diligenciar de conformidad con la complejidad señalada en el Registro Especial de
+Prestadores de Servicios de Salud - (REPS).
+Código CUPS del procedimiento quirúrgico principal: Obligatorio cuando se facturen
+procedimientos. Se debe registrar el código CUPS del procedimiento quirúrgico principal.
+Código CUPS del procedimiento quirúrgico secundario: Obligatorio cuando se facturen
+procedimientos. Se debe registrar el código CUPS del procedimiento quirúrgico segundario.
+Se presto servicio UCI: Obligatorio cuando se facture estancia en UCI Registre según el
+caso:
+0 = No
+1 = Si
+Días de UCI reclamados: Campo Obligatorio cuando se facture estancia en UCI, se debe
+registrar el número de días entre la fecha de ingreso y egreso de la UCI
+VIII. DATOS DEL PROPIETARIO DEL VEHÍCULO
+Los campos de esta sección son de obligatorio diligenciamiento cuando se trate de servicios de salud
+prestados a víctimas de accidente de tránsito cuyo estado de aseguramiento del vehículo sea i)
+Asegurado, ii) Asegurado D. 2497, iii) No asegurado o iv) Póliza falsa. Cuando se trate de vehículo
+en fuga, el Prestador de Servicios de Salud, deberá diligenciar los campos de acuerdo con la
+información que le sea entregada por la víctima.
+Para todos los casos, la fuente de información será la que se tome de la tarjeta de propiedad del
+vehículo. En los casos en los cuales no sea posible conseguir la información, deberá señalarse “sin
+información” en el campo y anexar el correspondiente soporte a la reclamación
+- Tipo de Documento Propietario: Registre el tipo de documento según corresponda:
+CC = Cédula de Ciudadanía.
+CE = Cédula de Extranjería.
+NIT = Número de identificación tributaria.
+CD = Carné Diplomático
+PT = Permiso por Protección Temporal
+PE = Permiso Especial de Permanencia
+SC = Salvoconducto: Únicamente se permite cuando el vehículo involucrado corresponde a un
+vehículo extranjero.
+DE = Documento Extranjero: Únicamente se permite cuando el vehículo involucrado tiene placas
+extranjeras.
+- Número de Documento: Registrar el número de documento del Propietario.
+- Primer Nombre del Propietario, Segundo Nombre, Primer Apellido, Segundo Apellido: Escribir en
+cada casilla los nombres y apellidos del propietario En el caso que el propietario sea una empresa
+escriba la razón social de la misma en el campo designado.
+- Departamento Municipio, Dirección, Domicilio del Propietario: Registrar los datos referentes al
+domicilio del propietario. Este campo es de diligenciamiento obligatorio, si el estado del vehículo es
+Asegurado, Asegurado D. 2497, No asegurado y Póliza falsa.
+VIII. DATOS DEL CONDUCTOR DEL VEHÍCULO INVOLUCRADO EN EL ACCIDENTE DE
+TRÁNSITO
+Para los casos en los cuales no sea posible conseguir la información, deberá señalarse “sin
+información” en el campo y anexar el correspondiente soporte a la reclamación, cuando el vehículo
+es Asegurado, Asegurado D. 2497, No Asegurado o Póliza Falsa. Si el vehículo es vehículo
+fantasma estos campos deben estar vacíos
+- Primer Nombre Conductor, Segundo Nombre, Primer Apellido, Segundo Apellido: Escribir
+claramente y en cada casilla los nombres y apellidos del conductor. Este campo es de
+diligenciamiento obligatorio, si el estado del vehículo es Asegurado, Asegurado D. 2497, No
+asegurado y Póliza falsa.
+- Tipo de Documento Conductor: Este campo es de diligenciamiento obligatorio si el estado del
+vehículo es Asegurado, Asegurado D.2497, No asegurado y Póliza falsa. Marque con una X la
+casilla correspondiente al tipo de documento según corresponda:
+CC = Cédula de Ciudadanía.
+CE = Cédula de Extranjería.
+PA = Pasaporte.
+RC = Registro Civil TI = Tarjeta de Identidad.
+PT = Permiso por Protección Temporal.
+PE = Permiso Especial de Permanencia.
+SC = Salvoconducto.
+CD = Carné Diplomático.
+DE = Documento Extranjero.
+En los casos en que no se tenga identificación y no sea posible obtener la misma por parte de la
+institución prestadora de servicios de salud, el campo debe quedar vacío.
+- Número de Documento: Escribir con claridad el número de documento del conductor. Este campo
+es de diligenciamiento obligatorio si el estado del vehículo es Asegurado, Asegurado D.2497, No
+asegurado o Póliza falsa.
+- Departamento Municipio, Dirección, Domicilio del Conductor, Teléfono: Escribir con claridad los
+datos referentes al Domicilio del Conductor. Este campo es de diligenciamiento obligatorio si el
+estado del vehículo es Asegurado, Asegurado D.2497, No asegurado o Póliza falsa.
+IX. DATOS DE REMISIÓN
+Esta sección se debe diligenciar cuando la víctima es trasladada de un centro asistencial a otro,
+independientemente de si se está solicitando el reconocimiento y pago del traslado interinstitucional,
+ii) trasladó al paciente a una IPS de mayor nivel o iii) cuando recibió al paciente de una IPS.
+Tipo de Referencia: Marque el tipo de referencia de acuerdo con las opciones del formulario:
+- Remisión: Es el procedimiento administrativo asistencial mediante el cual se transfiere el cuidado
+de un paciente de un profesional del área de la salud a otro profesional, un especialista o nivel
+superior de atención, con la consiguiente transferencia de responsabilidad por la salud del usuario.
+- Orden de servicio: Solo aplica si el paciente remitido regresa a la institución remitente, para los
+casos en que los pacientes requieran de servicios actividades o procedimientos no habilitados en la
+institución.
+Fecha y hora de remisión: El formato de la fecha es DD/MM/AAAA y la hora en formato 24
+horas hh:mm.
+Código de habilitación de la IPS que remite: Debe relacionar el código de habilitación de la
+IPS que remite el paciente.
+Profesional que remite: Nombre del funcionario de la IPS que remite y cargo.
+Fecha y hora de ingreso a la IPS que recibe: El formato de la fecha es DD/MM/AAAA y la
+hora en formato 24 horas hh:mm.
+Código de habilitación del Prestador que Recibe: Escriba el código de habilitación de la IPS
+a la cual es remitida la víctima.
+Profesional que recibe: Nombre del funcionario de la IPS y cargo.
+- Placa ambulancia: Escriba el número de placa del vehículo que transportó la víctima.
+X. AMPARO DE TRANSPORTE Y MOVILIZACIÓN DE LA VÍCTIMA:
+Diligenciar esta información cuando el traslado de la víctima desde el sitio del evento a la IPS
+(traslado primario), lo realiza la misma IPS que prestó los servicios de salud.
+- Número de Placa: Registrar el número de placa del vehículo que transportó la víctima. Este campo
+es de diligenciamiento obligatorio cuando se realice un traslado primario de la víctima.
+- Transportó la víctima desde: Registrar el lugar o dirección inicial del recorrido. Este campo es de
+diligenciamiento obligatorio cuando se realice un traslado primario de la víctima.
+- Transporte la víctima hasta: Escriba la dirección de la IPS que recibió al paciente. Este campo es de
+diligenciamiento obligatorio cuando se realice un traslado primario de la víctima.
+- Tipo de Ambulancia: Diligencie según corresponda el tipo de transporte prestado a la víctima de
+accidente de tránsito: Ambulancia Básica, Ambulancia Medicalizada. Este campo es de
+diligenciamiento obligatorio cuando se realice un traslado primario de la víctima.
+- Zona: Diligencie la zona Urbana o Rural. Si su reclamación es ante el FOSYGA, este campo no es
+de obligatorio diligenciamiento.
+XI. CERTIFICACIÓN DE LA ATENCIÓN MÉDICA DE LA VÍCTIMA COMO PRUEBA DEL
+ACCIDENTE O EVENTO
+Los datos reportados, deben ser coincidentes con el soporte de atención que se presente.
+- Fecha y hora de Ingreso: Registre la fecha en que ingresó la víctima a la IPS, en formato
+DD/MM/AAAA y la hora en formato 24 horas hh:mm.
+- Fecha y hora de Egreso: Registre la fecha en que salió la víctima de la IPS, en formato
+DD/MM/AAAA y la hora en formato 24 horas hh:mm.
+- Código diagnóstico principal de Ingreso: Código del Diagnóstico al ingreso del usuario, según la
+clasificación internacional de Enfermedades vigente.
+- Otro Código de diagnóstico de ingreso: Código del diagnóstico secundario, según la clasificación
+internacional de Enfermedades vigente. Este campo es de obligatorio diligenciamiento, cuando
+exista un diagnóstico de ingreso adicional al principal.
+- Código de diagnóstico principal de Egreso: Código de diagnóstico de egreso de la víctima, según la
+clasificación Internacional de enfermedades.
+- Otro Código de diagnóstico de egreso: Código del diagnóstico secundario, según la clasificación
+internacional de Enfermedades vigente. Este campo es de obligatorio diligenciamiento cuando exista
+un diagnóstico de egreso adicional al principal.
+XII. DATOS DEL MÉDICO O PROFESIONAL TRATANTE
+Todos los campos de esta sección son de obligatorio diligenciamiento.
+- Nombres, Apellidos y documento de identidad del médico o profesional de salud tratante:
+Diligenciar los datos del médico tratante.
+- Tipo de documento del médico o profesional de la salud tratante: Diligenciar los datos completos
+del médico, o profesional de la salud.
+CC = Cédula de Ciudadanía.
+CE = Cédula de Extranjería.
+PA = Pasaporte.
+PT = Permiso por Protección Temporal
+PE = Permiso Especial de Permanencia
+- Número de registro del médico: Diligenciar el número de registro del médico.
+XIII. AMPAROS QUE RECLAMA
+- Total Facturado por Gastos médico quirúrgicos: La información debe diligenciarse conforme a los
+datos de la factura por la cual se está realizando la reclamación. Este campo es de obligatorio
+diligenciamiento y debe concordar con la sumatoria de los valores facturados del FURIPS 2
+exceptuando los gastos de transporte primario.
+- Total Reclamado por Gastos médico quirúrgicos: La información debe diligenciarse conforme a los
+valores que va a reclamar el Prestador de Servicios de Salud. Este campo es de obligatorio
+diligenciamiento y debe concordar con la sumatoria de los valores reclamados del FURIPS 2
+exceptuando los gastos de transporte primario.
+- Total Facturado por Gatos de transporte y movilización de víctimas: Corresponde a los valores de
+transporte primario (del sitio del evento al primer sitio de atención), realizado por la misma IPS, de
+acuerdo con la tarifa definida en la normativa vigente y, que corresponde a la información
+diligenciada en el numeral VIII. (Amparo de transporte y movilización de la víctima), debe contener
+como mínimo el valor cero y debe ser idéntica al valor facturado en el FURIPS 2 con el código 3.
+XIV. DECLARACIÓN DE LA INSTITUCIÓN PRESTADORA DE SERVICIOS DE SALUD
+- Manifestación de Servicios Habilitados: Al diligenciar este campo el Prestador de Servicios en
+Salud certifica que los servicios facturados fueron prestados por la atención de víctimas de los
+eventos cubiertos por la ADRES y que éstos se encuentran habilitados para la fecha de prestación de
+servicios. Campo Obligatorio.
+3.1. TABLA 1. ANEXO TÉCNICO DE DEFINICIÓN DE CAMPOS DEL FURIPS 1.
+Nombre del archivo: FURIPS1CODIGOHABILITACIONDDMMAAAA dónde:
+FURIPS1: Obligatorio, indica que el archivo corresponde a FURIPS.
+CODIGOHABILITACION: Obligatorio, código de la IPS, de acuerdo con la codificación asignada
+de habilitación por la Dirección Departamental de Salud - DDS, este dato debe coincidir con el
+diligenciado en el campo 5 “Código de habilitación del prestador de servicios de salud.” del presente
+anexo.
+DDMMAAAA: Indica la fecha de generación del archivo.
+No.
+Columna Concepto Descripción Valores permitidos Longitud
+I. Datos de la reclamación.
+1 Número de
+radicado anterior
+Campo obligatorio en caso de
+diligenciarse RG (Respuesta a
+glosa) Debe registrarse el número
+de radicado asignado a la primera
+entrada de la reclamación.
+10
+2 RGORespuesta
+a Glosa u
+objeción
+Diligenciar en los siguientes casos:
+0 = Glosa u objeción total
+1 = Pago parcial
+6 = Glosa Transversal
+Si la reclamación es nueva, el
+campo debe ser vacío.
+0,1, Vacío para
+reclamaciones nuevas
+1
+3 Número de
+factura. Campo obligatorio.Número que
+corresponde al sistema de
+numeración o consecutivo de cada
+entidad según las disposiciones de
+la DIAN.
+20
+4 Número
+consecutivo de
+la reclamación
+Campo Obligatorio. Se acepta Numérico si
+corresponde al
+consecutivo
+12
+II. Datos del prestador de servicios de salud.
+5 Código de
+habilitación del
+prestador de
+servicios de
+salud.
+Campo obligatorio.El código de
+habilitación asignado por la
+Dirección Departamental de Salud.
+12
+III. Datos de la víctima del evento catastrófico o accidente de tránsito.
+6 Primer apellido
+de la víctima Campo obligatorio.Registrar como
+aparece en el documento de
+identidad. En el caso de no
+identificarse usar NN.
+20
+7 Segundo
+apellido de la
+víctima
+Registrar como aparece en el
+documento de identidad.
+30
+8 Primer nombre
+de la víctima
+Campo obligatorio.Registrar como
+aparece en el documento de
+identidad, en el caso de no
+identificarse usar NN
+20
+9 Segundo
+nombre de la
+víctima
+Registrar como aparece en el
+documento de identidad.
+30
+10 Tipo de
+documento de
+identidad de la
+víctima
+Campo obligatorio.
+CC = Cédula de ciudadanía.
+CE = Cédula de extranjería.
+CN = Certificado de Nacido Vivo
+PA = Pasaporte.
+TI = Tarjeta de identidad.
+RC = Registro civil.
+AS = Adulto sin identificar.
+MS = Menor sin identificar.
+CD = Carnet Diplomático.
+SC = Salvoconducto
+PE = Permiso Especial de
+Permanencia PT = Permiso por
+Protección Temporal DE =
+Documento extranjero
+CC, CE, CN, PA, TI,
+RC, AS, MS, CD, SC,
+PE, PT, DE
+2
+11 Número de
+documento de
+identidad de la
+víctima
+Campo obligatorio.
+Corresponde al número de
+identificación de la víctima.
+Para las víctimas con
+identificación MS o AS debe
+aplicarse las especificaciones de la
+16
+resolución 4622 de 2016.Para las
+víctimas extranjeras que no
+presenten ningún tipo de
+identificación se identifican como
+MS o AS y se debe aplicarse las
+especificaciones de la circular
+externa 29 de 2017
+12 Fecha de
+nacimiento de la
+víctima
+Campo obligatorio. Corresponde a
+la fecha de nacimiento de la
+víctima.
+FormatoDD/MM/AAAA 10
+13 Fecha de
+fallecimiento
+Campo obligatorio si el paciente
+fallece en la atención
+FormatoDD/MM/AAAA 10
+14 Sexo de la
+víctima
+Campo obligatorio. F = Femenino
+M = Masculino 0 = Otro
+F, M, O 1
+15 Dirección de
+residencia de la
+víctima
+Campo obligatorio si la victima
+fallece durante la atención.
+Cuando la víctima haya fallecido,
+se diligenciará la información del
+familiar acompañante acudiente
+40
+16
+Código del
+departamento de
+residencia de la
+víctima
+Campo obligatorio. Codificación DANE
+2
+17
+Código del
+municipio de
+residencia de la
+víctima
+Campo obligatorio. Codificación DANE 3
+18 Teléfono de la
+víctima
+Campo obligatorio si la victima
+fallece durante la atención.
+Cuando la víctima haya fallecido,
+se diligenciará la información del
+familiar acompañante acudiente.
+10
+19 Condición de la
+víctima
+Campo obligatorio para el tipo de
+evento 01 Accidentes de tránsito:
+1 = Conductor
+2 = Peatón
+3 = Ocupante
+4 = Ciclista
+1, 2, 3, 4 1
+IV. Datos del sitio donde ocurrió el evento catastrófico o el accidente de tránsito.
+20 Naturaleza del
+evento
+Campo obligatorio.
+Indica la naturaleza que genera el
+evento.
+01=Accidente de tránsito
+02=Sismo
+03=Maremoto
+04=Erupción volcánica
+05=Deslizamiento de tierra
+06=Inundación
+07=Avalancha
+08=Incendio natural
+09=Explosión terrorista
+10=Incendio terrorista
+01,02, 03, 04, 05, 06, 07,
+08, 09, 10, 11, 12, 13,
+14, 15, 16, 17, 25, 26,
+27.
+2
+11=Combate
+12=Ataques a Municipios
+13=Masacre
+14=Desplazados
+15= Mina antipersonal
+16=Huracán
+17= Otro
+25=Rayo
+26=Vendaval
+27=Tornado
+21 Descripción del
+otro evento Campo obligatorio si la naturaleza
+del evento es otro (17) se acepta vacío 25
+22
+Dirección de
+ocurrencia del
+evento
+Campo obligatorio. 40
+23 Fecha de
+ocurrencia del
+evento
+Campo obligatorio. FormatoDD/MM/AAAA
+10
+24
+Hora de
+ocurrencia del
+evento
+Campo obligatorio.
+Formato HH:MM (24
+horas)
+5
+25 Código del
+departamento de
+ocurrencia del
+evento
+Campo obligatorio. Codificación DANE
+2
+26
+Código del
+municipio de
+ocurrencia del
+evento
+Campo obligatorio. Codificación DANE 3
+27 Zona de
+ocurrencia del
+evento
+Campo obligatorio. U, R
+1
+V. Datos del Vehículo Involucrado en el Accidente de Tránsito.
+28 Estado de
+aseguramiento
+Campo obligatorio.
+1 = Asegurado
+2 = No asegurado
+3 = Vehículo fantasma
+4 = Póliza falsa
+5 = Vehículo en fuga
+6= Asegurado D.2497
+7= No asegurado - Propietario
+Indeterminado
+1, 2, 3, 4, 5, 6, 7 1
+29 Marca Campo obligatorio excepto cuando
+su estado de aseguramiento es 3 o
+5
+15
+30 Placa Campo obligatorio, si el estado de
+aseguramiento es 1, 2, 4, 5, 6 o 7. 10
+Tipo de
+Vehículo
+Campo obligatorio si el estado de
+aseguramiento es 1, 2, 4, 6 o 7.
+1 = Automóvil
+2 = Bus
+3 = Buseta
+1,2, 3, 4, 5, 6, 7, 8, 10,
+14, 17, 19, 20, 21, 22
+2
+31
+4 = Camión
+5 = Camioneta
+6 = Campero
+7 = Microbus
+8 = Tractocamión
+10 = Motocicleta
+14 = Motocarro
+17 = Mototriciclo
+19 = Cuatrimoto
+20 = Moto Extrajera
+21 = Vehículo Extranjero
+22 = Volqueta
+32 Código de la
+aseguradora
+Campo obligatorio si el estado de
+aseguramiento es 1,4 o 6.
+6
+33
+Número de
+póliza SOAT Campo obligatorio si el estado de
+aseguramiento es 1,4 o 6.
+Como se registra en la póliza
+SOAT
+20
+34 Fecha de inicio
+de vigencia de la
+póliza
+Campo obligatorio si el estado de
+aseguramiento es 1,4 o 6..
+FormatoDD/MM/AAAA
+10
+35
+Fecha final de
+vigencia de la
+póliza
+Campo obligatorio si el estado de
+aseguramiento es 1,4 o 6. FormatoDD/MM/AAAA
+10
+36
+Número de
+radicado SIRAS
+(id_atencion)
+Campo obligatorio. Cuando la
+naturaleza del evento sea
+«01=Accidente de tránsito», se
+deberá registrar el número
+id_atencion, generado por el
+sistema SIRAS cuando la IPS
+reporta la atención.
+Alfanumérico 20
+37 Cobro por
+agotamiento
+tope
+Aseguradora
+Campo obligatorio.Se debe
+especificar si la reclamación
+corresponde a un cobro de
+excedentes de gastos médicos una
+vez superado los topes de
+cobertura reconocidos por las
+aseguradoras cuando el vehículo
+involucrado contaba con póliza
+SOAT adquirida a tarifa diferencia
+en virtud del Decreto 2497 del
+2022. Estado de aseguramiento 60
+= No1 = Si
+0, 1 1
+VI. Datos Relacionados con la Atención de La Víctima
+38 Código CUPS
+de servicio
+principal de
+hospitalización
+Cuando se reclame estancia, se
+debe registrar el código CUPS del
+servicio principal que originó la
+hospitalización de la víctima
+6
+39
+Complejidad del
+procedimiento
+Obligatorio cuando se facturen
+procedimientos quirúrgicos. Se
+debe registrar de acuerdo con la
+complejidad del procedimiento
+1,2, 3 1
+procedimiento
+quirúrgico más alto.
+1 = Alta
+2= Media
+3 = Baja
+40 Código CUPS
+del
+procedimiento
+quirúrgico
+principal
+Obligatorio cuando se facturen
+procedimientos. Se debe registrar
+el código CUPS del procedimiento
+quirúrgico principal
+6
+41 Código CUPS
+del
+procedimiento
+quirúrgico
+secundario
+Obligatorio cuando se facturen
+procedimientos. Se debe registrar
+el código CUPS del procedimiento
+quirúrgico segundario
+6
+42
+Se presto
+servicio UCI
+Obligatorio cuando se facture
+estancia en UCI. Registre según el
+caso:
+0 = No
+1 = Si
+0, 1 1
+43
+Días de UCI
+reclamados
+Campo Obligatorio cuando se
+facture estancia en UCI, se debe
+registrar el número de días entre la
+fecha de ingreso y egreso de la
+UCI
+2
+VII. Datos del propietario del vehículo.
+44 Tipo de
+documento de
+identidad del
+propietario
+Campo obligatorio si el estado de
+aseguramiento es 1, 2, 4 o 6
+CC = Cédula de ciudadanía.
+CE = Cédula de extranjería.
+CD = Carnet Diplomático
+DE= Documento Extranjero
+SC= salvoconducto
+PE= Permiso Especial de
+Permanencia
+PT= Permiso por Protección
+Temporal
+NI = Número de identificación
+tributaria
+CC, CE, CD, DE, SC,
+PE, PT, NI.
+2
+45 Número de
+documento de
+identidad del
+propietario
+Campo obligatorio si el estado de
+aseguramiento es 1, 2, 4 o
+6.Registrar como aparece en la
+tarjeta de propiedad
+16
+46 Primer apellido
+del propietario o
+razón social en
+caso de empresa.
+Campo obligatorio. Si el estado de
+aseguramiento es 1, 2, 4 o 6,
+registrar como aparece en la tarjeta
+de propiedad
+40
+47 Segundo
+apellido del
+propietario
+Registrar como aparece en la
+tarjeta de propiedad 30
+48 Primer nombre
+del propietario Campo obligatorio. Para el caso de
+persona natural, si el estado de
+aseguramiento es 1, 2, 4 o 6,
+registrar como aparece en la tarjeta
+de propiedad
+20
+49 Segundo
+nombre del
+propietario
+Registrar como aparece en la
+tarjeta de propiedad 30
+50 Dirección de
+residencia del
+propietario
+Campo obligatorio, si el estado de
+aseguramiento es 1, 2, 4 o 6 40
+51 Teléfono de
+residencia del
+propietario
+Campo obligatorio si el estado de
+aseguramiento es 1, 2, 4 o 6.
+10
+52
+Código del
+departamento de
+residencia del
+propietario
+Campo obligatorio si el estado de
+aseguramiento es 1, 2, 4 o 6.
+Codificación DANE
+2
+53
+Código del
+municipio de
+residencia del
+propietario
+Campo obligatorio si el estado de
+aseguramiento es 1, 2, 4 o 6.
+Codificación DANE 3
+VIII. Datos del conductor involucrado en el accidente de tránsito.
+54 Primer apellido
+del conductor
+Campo obligatorio. Si el estado de
+aseguramiento es 1,2, 4,6 o 7,
+registrar como aparece en el
+documento de identidad o en la
+licencia de conducción
+20
+55 Segundo
+apellido del
+conductor
+Registrar como aparece en el
+documento de identidad o en la
+licencia de conducción
+30
+56 Primer nombre
+del conductor
+Campo obligatorio si el estado de
+aseguramiento es 1, 2, 4,6 o
+7.Registrar como aparece en el
+documento de identidad o en la
+licencia de conducción
+20
+57 Segundo
+nombre del
+conductor
+Registrar como aparece en el
+documento de identidad o en la
+licencia de conducción
+30
+58 Tipo de
+documento de
+identidad del
+conductor
+Campo obligatorio si el estado de
+aseguramiento es 1, 2, 4, 6 o 7.
+CC = Cédula de ciudadanía.
+CE = Cédula de extranjería.
+PA = Pasaporte.
+RC = Registro Civil
+TI = Tarjeta de identidad.
+CD= Carné Diplomático
+SC= Salvo Conducto
+DE= Documento Extranjero
+PE= Permiso Especial de
+Permanencia
+PT= Permiso por Protección
+CC, CE, PA, RC, TI,CD,
+SC, DE, CD, PE, PT 2
+Temporal
+59 Número de
+documento de
+identidad del
+conductor
+Campo obligatorio si el estado de
+aseguramiento es 1, 2, 4, 6 o 7
+Registrar como aparece en el
+documento de identidad o en la
+licencia de conducción.Para los
+conductores extranjeros con
+identificación Se debe usar tipo de
+documento DE, y aplicarse las
+especificaciones de la circular
+externa 29 de 2017
+16
+60 Dirección de
+residencia del
+conductor
+Campo obligatorio si el estado de
+aseguramiento es 1, 2, 4, 6 o 7. 40
+61
+Código del
+departamento de
+residencia del
+conductor
+Campo obligatorio si el estado de
+aseguramiento es 1, 2, 4, 6 o 7. Codificación DANE 2
+62
+Código del
+municipio de
+residencia del
+conductor
+Campo obligatorio si el estado de
+aseguramiento es 1, 2, 4, 6 o 7.
+Codificación DANE 3
+63 Teléfono de
+residencia del
+conductor
+Campo obligatorio si el estado de
+aseguramiento es 1, 2, 4, 6 o 7. 10
+IX. Datos de remisión (La información se convierte en obligatoria siempre y cuando existaremisión
+de la víctima).
+64
+Tipo de
+referencia
+Campo obligatorio cuando se
+cobren gastos de traslado
+interinstitucional.
+1 = Remisión
+2 = Orden de servicio
+1,2 1
+65 Fecha de
+remisión
+Campo obligatorio cuando exista
+remisión de la víctima. FormatoDD/MM/AAAA
+10
+66 Hora de salida Campo obligatorio cuando exista
+remisión de la víctima.
+Formato HH:MM (24
+Horas)
+5
+67 Código de
+habilitación del
+prestador de
+servicios de
+salud remitente.
+Campo obligatorio cuando exista
+remisión de la víctima. Registre el
+código de habilitación de la IPS
+que remite.
+12
+68 Profesional que
+remite Campo obligatorio cuando exista
+remisión de la víctima. Registre el
+nombre y apellido de la persona
+que realiza la remisión.
+60
+69 Cargo de la
+persona que
+remite
+Campo obligatorio cuando exista
+remisión de la víctima. 30
+70 Fecha de ingreso Campo obligatorio cuando exista
+remisión de la víctima. FormatoDD/MM/AAAA 10
+71 Hora de ingreso Campo obligatorio cuando exista
+remisión de la víctima. Formato HH:MM (24
+Horas) 5
+72 Código de
+habilitación del
+prestador de
+servicios de
+salud que recibe.
+Campo obligatorio cuando exista
+remisión de la víctima. Registre el
+código de habilitación de la IPS
+que recibe.
+12
+73 Profesional que
+recibe
+Campo obligatorio cuando exista
+remisión de la víctima. Nombre y
+apellido de la persona que realiza
+la remisión.
+60
+74
+Placa
+ambulancia que
+realiza el
+traslado
+interinstitucional
+Campo obligatorio cuando exista
+remisión de la víctima.
+6
+X. Transporte y movilización de la víctima (La información se convierte en obligatoria siempre y
+cuando exista movilización de víctima).
+75
+Placa
+ambulancia
+traslado
+primario
+Campo obligatorio cuando se
+cobre traslado primario. Número
+de placa del vehículo que
+transporta la víctima.
+6
+76
+Transporte de la
+víctima desde el
+sitio del evento
+Campo obligatorio cuando se
+cobre traslado primario. Escribir
+con claridad el lugar o dirección
+inicial del recorrido. Sólo se
+admite lugar cuando en el sitio no
+existe nomenclatura.
+40
+77
+Transporte de la
+víctima hasta el
+fin del recorrido
+Campo obligatorio cuando se
+cobre traslado primario. Escribir
+con claridad el lugar o dirección
+final del recorrido. Sólo se admite
+lugar cuando en el sitio no existe
+nomenclatura.
+40
+78 Tipo de servicio
+del transporte
+Campo obligatorio cuando se
+cobre traslado primario, de
+acuerdo con el anexo técnico No. 1
+de la Resolución 2003 de 2014.
+1 = Transporte básico
+2 = Transporte medicalizado
+1,2 1
+79 Zona donde
+recoge víctima Campo obligatorio cuando se
+cobre traslado primario. U, R 1
+XI. Certificación de la atención medica de la víctima como prueba del accidente o evento.
+80 Fecha de ingreso Campo obligatorio. FormatoDD/MM/AAAA 10
+81 Hora de ingreso Campo obligatorio. Formato HH:MM (24
+Horas) 5
+82 Fecha de egreso Campo obligatorio. FormatoDD/MM/AAAA 10
+83 Hora de egreso Campo obligatorio. Formato HH:MM (24
+Horas) 5
+84 Código de
+diagnóstico
+principal de
+ingreso
+Campo obligatorio.Código del
+diagnóstico al ingreso de la
+víctima, según la clasificación
+internacional de enfermedades
+vigente
+Codificación CIE-10 4
+85 Código de
+diagnóstico de
+ingreso asociado
+1
+Código del diagnóstico al ingreso
+de la víctima, según la
+clasificación internacional de
+enfermedades vigente.
+Codificación CIE-10 4
+86
+Código de
+diagnóstico de
+ingreso asociado
+2
+Código del diagnóstico al ingreso
+de la víctima, según la
+clasificación internacional de
+enfermedades vigente.
+Codificación CIE-10 4
+87 Código
+diagnóstico
+principal de
+egreso
+Campo obligatorio.Código del
+diagnóstico al egreso de la víctima,
+según la clasificación internacional
+de enfermedades vigente
+Codificación CIE-10 4
+88
+Código de
+diagnóstico de
+egreso asociado
+1
+Código del diagnóstico al egreso
+de la víctima, según la
+clasificación internacional de
+enfermedades vigente.
+Codificación CIE-10 4
+89 Código de
+diagnóstico de
+egreso asociado
+2
+Código del diagnóstico al egreso
+de la víctima, según la
+clasificación internacional de
+enfermedades vigente.
+Codificación CIE-10 4
+XII. Datos del médico o profesional de la salud tratante.
+90
+Primer apellido
+del médico o
+profesional de la
+salud
+Campo obligatorio 20
+91
+Segundo
+apellido del
+médico o
+profesional de la
+salud
+30
+92 Primer nombre
+del médico o
+profesional de la
+salud
+Campo obligatorio 20
+93
+Segundo
+nombre del
+médico o
+profesional de la
+salud
+30
+94 Tipo de
+documento de
+identidad del
+médico o
+profesional de la
+salud
+Campo obligatorio.
+CC = Cédula de ciudadanía
+CE = Cédula de extranjería
+PA= Pasaporte
+PE= Permiso Especial de
+Permanencia
+PT= Permiso por Protección
+Temporal
+CC, CE, PE, PA, PT 2
+95 Número de
+documento de
+identidad del
+médico o
+profesional de la
+salud
+Campo obligatorio 16
+96 Número de
+registro del
+médico
+Campo obligatorio. 16
+XIII. Amparos que reclama.
+97 Total facturado
+por amparo de
+gastos médicos
+quirúrgicos
+Campo obligatorio.No utilizar
+ningún tipo de separador de miles
+y no debe incluir decimales, este
+campo debe coincidir con la
+sumatoria de valores facturados
+del FURIPS 2, exceptuando los
+gastos de transporte primario.
+Mayor o igual a cero 15
+98 Total reclamado
+por amparo de
+gastos médicos
+quirúrgicos
+Campo obligatorio.No utilizar
+ningún tipo de separador de miles
+y no debe incluir decimales, este
+campo debe coincidir con la
+sumatoria de valores reclamados
+del FURIPS 2, exceptuando los
+gastos de transporte primario.
+Mayor o igual a cero 15
+99 Total facturado
+por amparo de
+gastos de
+transporte y
+movilización de
+la víctima
+Campo obligatorio.No utilizar
+ningún tipo de separador de miles
+y no debe incluir decimales, este
+campo debe coincidir con los
+gastos facturados de transporte
+primario en el FURIPS 2.
+Mayor o igual a cero 15
+100 Total reclamado
+por amparo de
+gastos de
+transporte y
+movilización de
+la víctima
+Campo obligatorio.No utilizar
+ningún tipo de separador de miles
+y no debe incluir decimales, no
+debe incluir decimales, este campo
+debe coincidir con los gastos
+reclamados de transporte primario
+en el FURIPS 2.
+Mayor o igual a cero 15
+XIV Confirmación servicios habilitados.
+101 Manifestación
+de servicios
+habilitados
+Campo obligatorio. La IPS
+reclamante y quien la representa
+legalmente, certifica que los
+servicios facturados se encuentran
+habilitados para la fecha de
+prestación de servicio y que fueron
+prestados al paciente.NO = 0 SI =
+1
+0, 1 3
+4. INSTRUCTIVO DE DILIGENCIAMIENTO DEL FORMULARIO ÚNICO DE
+RECLAMACIÓN DE LAS INSTITUCIONES PRESTADORAS DE SERVICIOS DE SALUD -
+FURIPS 2.
+- Número de Factura: Número que corresponde al sistema de numeración o consecutiva de cada
+entidad según las disposiciones de la DIAN.
+- Número de consecutivo de la reclamación: Número interno asignado por el Prestador de Servicios
+de Salud
+- Tipo de Servicio: Seleccionar el tipo de tecnología en salud a reclamar de acuerdo con la siguiente
+definición:
+1=Medicamentos
+2=Procedimientos
+3=Transporte Primario
+4=Transporte secundario
+5=Insumos
+6=Dispositivos Médicos
+7=Material de Osteosíntesis
+8=Procedi miento no incluido en el manual tarifario
+- Código del Servicio: Para el caso de los medicamentos aplicar código CUM del INVIMA y del
+Ministerio de Salud y Protección Social, conformado por el No. de expediente-consecutivo.
+Para los medicamentos vitales no disponibles autorizados para importación, registrar el código IUM
+otorgado por el Invima.
+Para el caso de los servicios médicos quirúrgicos que incluya honorarios, estancias, ayudas
+diagnósticas, derechos de sala quirúrgica e insumos del grupo quirúrgico 1 al 13 aplicar los códigos
+del anexo 1 del Decreto
+Cuando se reclame material de Osteosíntesis se debe registrar el registro Sanitario del INVIMA.
+Nota: Diligenciamiento del FURIPS procedimientos quirúrgicos del Manual Tarifario: Cuando los
+servicios médico quirúrgicos prestados correspondan procedimientos quirúrgicos relacionados en el
+numerales 2 al 19 del Anexo Técnico 1 del Decreto 780/2016, se registrará una primera línea con el
+código SOAT del procedimiento facturado y se adicionará una línea por cada componente del
+procedimiento quirúrgico con su respectivo código SOAT de los numerales 47, 48 y 54 del referido
+anexo técnico según corresponda. Ver ejemplo de diligenciamiento en el numeral 1.2 del presente
+acto administrativo.
+- Descripción del servicio o elemento reclamado: Campo obligatorio: Se debe realizar una pequeña
+descripción del elemento reclamado cuando el tipo de servicio es (3), cuatro (4), cinco (5), seis (6),
+siete (7) y ocho (8).
+Cuando el tipo de servicio corresponda a procedimiento (2), en la descripción de los códigos
+asociados a grupos quirúrgicos deberá registrar la descripción cuando corresponda a procedimientos
+quirúrgicos teniendo en cuenta la siguiente nota:
+Nota: Diligenciamiento del FURIPS procedimientos quirúrgicos del Manual Tarifario: Cuando los
+servicios médico quirúrgicos prestados correspondan procedimientos quirúrgicos relacionados en el
+numerales 2 al 19 del Anexo Técnico 1 del Decreto 780/2016, se registrará en la primera línea
+correspondiente al código SOAT del procedimiento facturado, la descripción descrita en el referido
+Decreto y en cada una de las líneas relacionadas con los componentes del procedimiento quirúrgico
+se registrará la descripción, conforme lo establecido en el anexo 1 de la presente resolución
+denominado « Tabla para diligenciamiento del campo descripción en el FURIPS 2 cuando el código
+corresponde a los numerales 47, 48 y 54 del Anexo 1 del Decreto 780 de 2016». Ver ejemplo de
+diligenciamiento en el numeral 4.2 del presente acto administrativo.
+- Cantidad de servicios: Registrar las unidades de los servicios o tecnologías de salud reclamados.
+Nota: Diligenciamiento del FURIPS Procedimientos quirúrgicos - Manual Tarifario: Cuando los
+servicios médico quirúrgicos prestados correspondan procedimientos quirúrgicos relacionados en el
+numerales 2 al 19 del Anexo Técnico 1 del Decreto 780/2016, se registrará como cantidad cero (0)
+en la primera línea correspondiente al código SOAT del procedimiento facturado, y en cada una de
+las líneas relacionadas a cada componente del procedimiento quirúrgico (numerales 47, 48 y 54 del
+Anexo técnico 1 D. 780/16) se diligenciará la cantidad conforme lo registrado en la factura de venta.
+- Valor unitario Facturado: Registrar el valor unitario facturado
+Nota: Diligenciamiento del FURIPS procedimientos quirúrgicos - Manual Tarifario: Cuando los
+servicios médico quirúrgicos prestados correspondan procedimientos quirúrgicos relacionados en el
+numerales 2 al 19 del Anexo Técnico 1 del Decreto 780/2016, se registrará como valor unitario cero
+(0) en la primera línea correspondiente al código SOAT del procedimiento facturado, y en cada una
+de las líneas relacionadas a cada componente del procedimiento quirúrgico (numerales 47, 48 y 54
+del Anexo técnico 1 D.780/16) se diligenciará el valor unitario conforme lo registrado en la factura
+de venta. Ver ejemplo de diligenciamiento en el numeral 4.2 del presente acto administrativo.
+- Valor total facturado: Corresponde al producto de la cantidad de servicios multiplicado por los
+valores unitarios establecidos
+Nota: Diligenciamiento del FURIPS procedimientos quirúrgicos - Manual Tarifario: Cuando los
+servicios médico quirúrgicos prestados correspondan procedimientos quirúrgicos relacionados en el
+numerales 2 al 19 del Anexo Técnico 1 del Decreto 780/2016, se registrará como valor facturado
+cero (0) en la primera línea correspondiente al código SOAT del procedimiento facturado, y en cada
+una de las líneas relacionadas a cada componente del procedimiento quirúrgico (numerales 47, 48 y
+54 del Anexo técnico 1 D.780/16) se diligenciará el valor facturado conforme lo registrado en la
+factura de venta. Ver ejemplo de diligenciamiento en el numeral 4.2 del presente acto
+administrativo.
+- Valor total reclamado: Corresponde al valor reclamado por el prestador, que en ningún caso puede
+ser superior al valor facturado.
+Nota: Diligenciamiento del FURIPS procedimientos quirúrgicos - Manual Tarifario: Cuando los
+servicios médico quirúrgicos prestados correspondan procedimientos quirúrgicos relacionados en el
+numerales 2 al 19 del Anexo Técnico 1 del Decreto 780/2016, se registrará como valor reclamado
+cero (0) en la primera línea correspondiente al código SOAT del procedimiento facturado, y en cada
+una de las líneas relacionadas a cada componente del procedimiento quirúrgico (numerales 47, 48 y
+54 del Anexo técnico 1 D.780/16) se diligenciará el valor reclamado conforme lo registrado en la
+factura de venta.
+4.1. TABLA 2. ANEXO TÉCNICO DE DEFINICIÓN DE CAMPOS DEL FURIPS 2.
+Nombre del archivo: FURIPS2CODIGOHABILITACIONDDMMAAAA donde:
+FURIPS2 = Obligatorio, indica que el archivo corresponde a FURIPS.
+CODIGOHABILITACION = Código de la IPS, de acuerdo con la codificación asignada de
+habilitación por la Dirección Departamental de Salud - DDS.
+DDMMAAAA = Fecha de generación Archivo.
+No.
+Columna Concepto
+Descripción Valorespermitidos
+Longitud
+1. Datos de la reclamación.
+1
+Número factura. Campo obligatorioNúmero que
+corresponde al sistema de
+numeración o consecutiva de cada
+entidad según las disposiciones de
+la DIAN.
+20
+2
+Número
+consecutivo de
+la reclamación
+Campo Obligatorio.Debe
+concordar con el campo 4 del
+archivo FURIPS1
+Debe ser Numérico si
+20
+2. Factura.
+3
+Tipo de servicio Campo obligatorio.Seleccionar el
+tipo de tecnología en salud a
+reclamar de acuerdo con la
+siguiente definición:
+1=Medicamentos
+2=Procedimientos
+3=Transporte Primario
+4=Transporte secundario
+5=Insumos
+6=Dispositivos Médicos
+7=Material de Osteosíntesis
+8=Procedimiento no incluido en el
+manual tarifario
+1,2, 3, 4, 5, 6,7, 8
+1
+Campo obligatorio.Para el caso de
+los medicamentos aplicar código
+CUM del INVIMA y del
+Ministerio de Salud y Protección
+Social, conformado por el No. de
+expediente-consecutivo.
+Ejemplo:230327-1 Para los
+medicamentos vitales no Codificación CUM si
+tipo de servicio es uno
+4 Código del
+servicio
+disponibles autorizados para
+importación, registrar el código
+IUM otorgado por el InvimaPara
+el caso de los servicios médicos
+quirúrgicos que incluya
+honorarios, estancias, ayudas
+diagnósticas, derechos de sala
+quirúrgica e insumos del grupo
+quirúrgico 1 al 13 aplicar los
+códigos del anexo 1 del Decreto
+780/16Para los tipos de servicio 3,
+4, 5, 6 y 7 este campo es vacío.
+(1)Decreto 2644/2022 si
+tipo de servicio es dos
+(2)Campo vacío para tipo
+de servicio tres (3),
+cuatro (4), cinco (5), seis
+(6), siete (7) y ocho (8)
+15
+5
+Descripción del
+servicio o
+elemento
+reclamado
+Campo obligatorio: Se debe
+realizar una pequeña descripción
+del elemento reclamado cuando el
+tipo de servicio es (3), cuatro (4),
+cinco (5), seis (6), siete (7) y ocho
+(8).También será obligatorio
+aplicar la descripción del anexo 1
+de la presente circular, cuando se
+facturen procedimientos
+quirúrgicos de los numerales 47,
+48 y 54 del manual tarifario
+(anexo técnico 1 del decreto 780
+de 2016).
+Cuando los
+procedimientos
+quirúrgicos prestados
+correspondan a los
+relacionados en el los
+numerales 2 al 19 del
+anexo técnico 1 del
+Decreto 780/2016 se
+debe registrar de acuerdo
+con la tabla del anexo 1
+de la presente circular
+100
+6 Cantidad de
+servicios Campo obligatorio Mayor a cero 15
+7 Valor unitario
+Campo obligatorio No utilizar
+ningún tipo de separador de miles
+y no debe incluir decimales.
+Mayor a ceroCuando los
+procedimientos
+quirúrgicos prestados
+correspondan a los
+relacionados en el los
+numerales 2 al 19 del
+anexo 1 del Decreto
+780/2016 se debe
+registrar cero (0)
+15
+8 Valor total
+facturado
+Campo obligatorio. No utilizar
+ningún tipo de separador de miles
+y no debe incluir decimales
+Corresponde al producto de la
+cantidad de servicios multiplicado
+por los valores unitarios
+establecidos
+Mayor a ceroCuando los
+procedimientos
+quirúrgicos prestados
+correspondan a los
+relacionados en los
+numerales 2 al 19 del
+anexo 1 del Decreto
+780/2016 se debe
+registrar cero (0)
+15
+9 Valor total
+reclamado
+Campo obligatorio.No se utilizará
+ningún tipo de separador de miles
+y no debe incluir decimales.
+Mayor a ceroCuando los
+procedimientos
+quirúrgicos prestados
+correspondan a los
+relacionados en los
+numerales 2 al 19 del
+anexo 1 del Decreto
+780/2016 se debe
+registrar cero (0)
+15
+4.2. EJEMPLO DE DILIGENCIAMIENTO DEL FURIPS 2 CUANDO SE FACTURAN
+PROCEDIMIENTOS QUIRÚRGICOS.
+Número
+de
+Factura
+Consecutivo Tipo
+Servicio Código Descripción Cantidad Valor
+Unitario Valor
+Facturado Valor
+reclamado
+FE123
+123 2 15102 Desbridamiento
+por lesión
+superficial, más
+del 5 área
+corporal 0
+0 0 0
+FE123
+123 2 39003 15102-
+HONORARIOS
+CIRUJANO-
+GRUPO-05 1
+218000 218000
+218000
+FE123
+123 2 39103 15102-
+HONORARIOS
+ANESTESIA-
+GRUPO-05 1
+142500 142500 142500
+FE123 123 2 39207 15102-
+DERECHOS DE
+SALA -GRUPO-
+05 1
+388900 388900 388900
+FE123 123 2 39302 15102-
+MATERIALES-
+GRUPO-05 1
+159000 159000 159000
+Nota: Los títulos de las columnas son para ilustración del interesado, pues estos no se incluyen en el
+archivo txt.
+5. FORMULARIO ÚNICO DE RECLAMACIONES POR ACCIDENTES DE TRÁNSITO Y
+EVENTOS CATASTRÓFICOS (EVENTOS TERRORISTAS, CATÁSTROFES NATURALES Y
+OTROS EVENTOS APROBADOS POR EL CNSSS) DE PERSONAS NATURALES - FURPEN.
+5.1. INSTRUCTIVO DE DILIGENCIAMIENTO DEL FURPEN.
+Nota: Este formato aplica para la presentación de Reclamaciones para el reconocimiento y pago de
+las indemnizaciones a Personas Naturales víctimas de Evento Catastrófico o Accidente de Tránsito.
+Instrucciones Generales:
+- Se debe diligenciar en forma clara para cada víctima de Evento Catastrófico o Accidente de
+Tránsito, en original y verificando que las copias sean legibles al igual que el original.
+El original se presentará a la ADRES y la copia la conservará el reclamante.
+RADICACIÓN
+- Fecha de Radicación: Campo diligenciado por la ADRES o por la Compañía de Seguros en el
+momento de la recepción de la reclamación.
+- Número de Radicación: Campo diligenciado por la ADRES o quien haga sus veces o por la
+Compañía de Seguros en el momento de la recepción de la reclamación.
+- No. Radicado Anterior. Campo obligatorio diligenciado por el reclamante en los casos en que la
+presentación corresponda a una reclamación de respuesta a un resultado de auditoría. Escribir el
+radicado asignado en la primera presentación. Para este caso debe marcarse el espacio RG (respuesta
+a glosa u objeción)
+I. DATOS DE LA PERSONA QUE RECLAMA
+- Primer Nombre, Primer Apellido: Escribir claramente y en cada campo los nombres y apellidos de
+la persona o de la entidad que hace la reclamación. Campos obligatorios.
+- Segundo Nombre, Segundo Apellido: Escribir claramente y en cada campo los nombres y apellidos
+de la persona o de la entidad que hace la reclamación. Campos No obligatorios.
+- Tipo de Documento: Marque con una X la casilla correspondiente al tipo de documento de acuerdo
+con:
+CC = Cedula de Ciudadanía.
+CE = Cedula de Extranjería.
+PA = Pasaporte.
+PE = Permiso Especial de Permanencia
+PT = Permiso de Protección Temporal
+Este campo es de obligatorio diligenciamiento.
+- Número de Documento: Escribir el número de documento de identidad.
+- Dirección domicilio, Departamento, Municipio, correo electrónico, teléfono: Escribir con claridad
+los datos correspondientes a Dirección, Teléfono, Correo Electrónico, Departamento, Municipio del
+reclamante. Para la dirección, sólo se admite lugar cuando en el sitio no exista nomenclatura.
+Este campo es de obligatorio diligenciamiento y deben corresponder a los datos del reclamante, por
+lo que, no puede coincidir con la información de apoderados.
+- Parentesco o Relación con la Víctima: Escribir el tipo de parentesco con la víctima y que lo habilita
+como reclamante beneficiario de la reclamación.
+Ejemplo: Padres, Cónyuge, Compañera (o) permanente, Hijos, Hermanos, Representante Legal.
+Este campo es de obligatorio diligenciamiento.
+En virtud del deber de protección de los recursos, en ningún caso un abogado apoderado podrá ser
+reclamante.
+II. DATOS DEL APODERADO (ABOGADO CON PODER PARA TRAMITAR LA
+RECLAMACIÓN)
+Cuando el reclamante otorgue poder a un abogado para adelantar el trámite de la reclamación, esta
+sección es de obligatorio diligenciamiento y dentro de los documentos soporte se debe aportar el
+respectivo poder.
+- Primer Nombre, Primer Apellido: Escribir claramente y en cada campo los nombres y apellidos de
+la persona o de la entidad que hace la reclamación.
+- Segundo Nombre, Segundo Apellido: Escribir claramente y en cada campo los nombres y apellidos
+de la persona o de la entidad que hace la reclamación. Campos No obligatorios.
+- Tipo de Documento: Marque con una X la casilla correspondiente al tipo de documento de acuerdo
+con:
+CC = Cedula de Ciudadanía.
+CE = Cedula de Extranjería.
+- Número de Documento: Escribir en cada casilla uno a uno el número de documento de identidad.
+- Dirección, Departamento, Municipio, correo electrónico, teléfono: Escribir con claridad los datos
+correspondientes a Dirección, Teléfono, Correo Electrónico, Departamento, Municipio del abogado.
+- Tarjeta Profesional: Número de la tarjeta profesional del abogado con poder
+El abogado con poder podrá radicar documentos y solicitar información, pero en ningún caso podrá
+suplir al reclamante y por tanto los valores reconocidos únicamente serán girados a la cuenta
+bancaria del reclamante.
+Lo anterior en virtud del deber de protección de los recursos del SGSSS.
+III. DATOS DE LA VÍCTIMA DEL EVENTO CATASTRÓFICO O ACCIDENTE DE TRANSITO
+- Primer Nombre, Primer Apellido: Escribir claramente y en cada campo los nombres y apellidos de
+la persona o de la entidad que hace la reclamación. Campos obligatorios.
+- Segundo Nombre, Segundo Apellido: Escribir claramente y en cada campo los nombres y apellidos
+de la persona o de la entidad que hace la reclamación. Campos No obligatorios.
+- Tipo de Documento: Marque con una X la casilla correspondiente al tipo de documento de acuerdo
+con:
+CC = Cédula de Ciudadanía.
+CE = Cédula de Extranjería.
+CD = Carné Diplomático PA = Pasaporte.
+SC = Salvoconducto
+PE = Permiso Especial de Permanencia
+PT = Permiso de Protección Temporal
+CN = Certificado de Nacido Vivo
+TI = Tarjeta de Identidad.
+RC = Registro Civil.
+DE = Documento Extranjero
+Este campo es de obligatorio diligenciamiento.
+- Número de Documento: Escribir con claridad el número de documento de la víctima. Este campo
+es de obligatorio diligenciamiento.
+- Fecha de Nacimiento: Escribir la fecha de nacimiento en el formato día mes año. Este campo es de
+obligatorio diligenciamiento.
+- Sexo: Relacione según corresponda la víctima. M para Masculino F para Femenino y O para otros,
+este campo es de obligatorio diligenciamiento.
+- Dirección Domicilio, Departamento, Municipio, Teléfono: Escribir con claridad y en cada uno de
+los campos de dirección, departamento, municipio y teléfono de la víctima. Cuando se trate de
+indemnización por muerte y gastos funerarios solo es de obligatorio diligenciamiento el
+departamento y municipio donde residió la víctima.
+- Condición del Accidentado: Campo obligatorio cuando se trate de accidente de tránsito.
+Marque con una X la casilla correspondiente. Conductor, Peatón, Ocupante, Ciclista.
+- Fecha en caso de Muerte: Escribir la fecha de muerte en el formato día mes año, este campo es de
+obligatorio diligenciamiento cuando se reclame el amparo de muerte y gastos funerarios.
+IV. DATOS DEL SITIO DONDE OCURRIÓ EL EVENTO CATASTRÓFICO OACCIDENTE DE
+TRANSITO
+- Naturaleza del Evento: Marque con una X la casilla correspondiente al tipo de Evento que
+corresponda. Cuando el tipo de evento no se encuentre en la clasificación del formulario, deberá
+diligenciarse en el campo “otros” el número de acto administrativo mediante el cual se declaró el
+otro tipo de evento. Este campo es de obligatorio diligenciamiento.
+- Dirección donde ocurrió el accidente, Departamento, Municipio, Teléfono: Escribir con claridad
+los datos de ubicación del evento o accidente de tránsito. Para la dirección del accidente o evento,
+sólo se admite lugar cuando en el sitio no exista nomenclatura. Este campo es de obligatorio
+diligenciamiento.
+- Fecha y Hora del Accidente o Evento: Escribir la fecha en formato Día, Mes, Año en la casilla
+asignada y la hora en formato 24 horas.
+Ejemplo:
+20 de noviembre de 2015 a la 1:52 pm
+D D M M A A A A
+Fecha
+Accidente 2 0 1 1 2 0 1 5
+Hora 1 3 5 2
+El campo fecha es de obligatorio diligenciamiento.
+- Zona: Marque con una X la casilla correspondiente a la Zona donde ocurrió el evento U = Urbana,
+R = Rural. Este campo es obligatorio.
+- Descripción Breve del Evento/Accidente: Enuncie las principales características del accidente o
+evento. Este campo es de obligatorio diligenciamiento.
+V. INFORMACIÓN DEL VEHÍCULO (PARA ACCIDENTES DE TRANSITO)
+Diligencie esta información únicamente cuando la reclamación sea originada por un accidente de
+tránsito. Para todos los casos la fuente de información será la que se tome de la tarjeta de propiedad
+del vehículo, con excepción de la información correspondiente a la póliza SOAT.
+- Estado de Aseguramiento del Vehículo: Marcar con X de acuerdo con lo correspondiente:
+- Carro Fantasma: Si el vehículo que ocasionó el accidente no está identificado o se fugó del sitio del
+accidente.
+- Asegurado: Si en el momento del accidente existe póliza de seguro.
+- No Asegurado: Si no existe póliza de seguro o si la póliza está vencida.
+- Póliza falsa: Si en el momento del accidente presenta póliza falsa.
+- Marca del vehículo: Utilizar el espacio asignado escribiendo con claridad la marca del vehículo
+involucrado en el accidente. Campo obligatorio excepto cuando su estado de aseguramiento es
+“Carro Fantasma o Vehículo en fuga”
+- Número de Placa: Escribir en cada una de las casillas con claridad las letras y los números de la
+placa del vehículo involucrado en el accidente. No se deben registrar, guiones, asteriscos, ni
+información diferente a letras y números. Campo obligatorio excepto cuando su estado de
+aseguramiento es “Carro Fantasma o Vehículo en fuga”
+- Tipo de Servicio: Marque con una X el servicio del vehículo involucrado en el accidente de
+acuerdo con el Código Nacional de Tránsito Terrestre Ley 769 de 2002, a saber:
+1 = Automóvil
+2 = Bus
+3 = Buseta
+4 = Camión
+5 = Camioneta
+6 = Campero
+7 = Microbús
+8 = Tractocamión
+10 = Motocicleta
+14 = Motocarro
+17 = Moto triciclo
+19 = Cuatrimoto
+20 = Moto Extrajera: Automotor destinado a satisfacer las necesidades privadas de movilización de
+personas con placas de un país extranjero
+21 = Vehículo Extranjero: Vehículo Automotor destinado a satisfacer las necesidades privadas de
+movilización de personas con placas de un país extranjero
+22 = Volqueta
+Campo obligatorio excepto cuando su estado de aseguramiento es “Carro Fantasma o Vehículo en
+fuga”
+- Nombre de la Aseguradora: Campo obligatorio si el vehículo está asegurado. Corresponde a la
+compañía de Seguros que expidió la póliza. La fuente de información para este caso será la que se
+tome del SOAT.
+- Número de la Póliza: Campo obligatorio si el vehículo está asegurado. Escribir claramente los
+números que identifican la póliza. La fuente de información para este caso será la que se tome del
+SOAT.
+Fecha de Vigencia de Póliza: Debe diligenciase si el vehículo está asegurado, el formato de la fecha
+es de día, mes y año. Este campo es de obligatorio diligenciamiento sólo cuando el estado del
+vehículo es Asegurado.
+- Intervención de Autoridad: Marque con X si hubo o no intervención de la autoridad de tránsito y
+transporte. Campo obligatorio.
+VI. DATOS DEL PROPIETARIO DEL VEHICULO
+Campos obligatorios si el vehículo está asegurado, no asegurado o póliza falsa
+- Primer Nombre Propietario -Segundo Nombre - Primer Apellido - Segundo Apellido: Escribir
+claramente y en cada casilla los nombres y apellidos del Propietario.
+- Tipo de Documento Propietario: Marque con una X la casilla correspondiente al tipo de documento
+de acuerdo con:
+CC = Cédula de Ciudadanía.
+CE = Cédula de Extranjería.
+NIT = Número de identificación tributaria
+CD = Carnet Diplomático
+PE = Permiso Especial de Permanencia
+PT = Permiso de Protección Temporal
+DE = Documento Extranjero: Únicamente será válido cuando el vehículo o moto tenga placas
+extranjeras
+- Número de Documento: Escribir con claridad el número de documento del Propietario del
+vehículo.
+- Departamento Municipio, Dirección, Domicilio del Propietario: Escribir con claridad los datos
+referentes al domicilio del conductor.
+VII. DATOS DEL CONDUCTOR DEL VEHÍCULO
+Campos obligatorios si el vehículo está asegurado, no asegurado o póliza falsa
+- Primer Nombre Conductor, Segundo Nombre, Primer Apellido, Segundo Apellido: Escribir
+claramente y en cada campo los nombres y apellidos del conductor del vehículo.
+- Tipo de Documento Conductor: Marque con una X la casilla correspondiente al tipo de documento
+de acuerdo con:
+CC = Cédula de Ciudadanía.
+CE = Cédula de Extranjería.
+PA = Pasaporte.
+RC = Registro Civil.
+TI = Tarjeta de Identidad.
+PT = Permiso por Protección Temporal
+PE = Permiso Especial de Permanencia
+SC = Salvoconducto
+CD = Carnet Diplomático
+DE = Documento Extranjero
+Para el caso del tipo AS, debe tenerse en cuenta los definidos en la Resolución 4622 de2016 para la
+población especial así:
+Condición Tipo de
+Documento Longitud
+Máxima Composición del número de identificación
+Personas de la tercera edad
+en protección de ancianatos.
+AS 10 Código de departamento + código de
+municipio + S + consecutivo por afiliado
+(Alfanumérico). Ej: 08001S8125
+Indígenas mayores de edad AS 10 Código de departamento + código de
+municipio + I + consecutivo por afiliado
+(Alfanumérico de 4). Ej: 76001I8125
+Habitantes de la calle
+mayores de edad. AS
+10 Código de departamento + municipio + D +
+consecutivo por afiliado (Alfanumérico de
+4).Ej: 05001D0008
+Mayores de edad
+desmovilizados y/o que
+celebren acuerdos de paz
+con el Gobierno nacional
+AS
+10 Departamento + municipio + P +
+consecutivo por afiliado (4 dígitos). Ej:
+05001P0008. *Las entidades Territoriales y
+las EPSS deben gestionar la plena
+identificación de esta población y reportar la
+actualización del documento a la BDUA.
+Población privada de la
+libertad a cargo de las
+entidades territoriales AS 6
+Número asignado por el Inpec. Para internos
+recluidos en los establecimientos de
+reclusión a cargo del Inpec.
+Para las víctimas extranjeras con identificación se utiliza el tipo de documento DE y el número del
+documento que presenta la víctima. Para las víctimas extranjeras que no presentan identificación se
+utiliza el documento MS, AS y el número de documento debe registrarse aplicando las
+especificaciones de la circular externa 029 de 2017 y 024 de 2019.
+- Número de Documento: Escribir con claridad el número de documento de identidad del conductor.
+- Departamento Municipio, Dirección, Domicilio del Conductor: Escribir con claridad los datos
+referentes al domicilio del conductor.
+VIII. AMPAROS QUE RECLAMA
+Marcar con X en la casilla de acuerdo con el amparo que reclama según corresponda:
+- Indemnización por Muerte y Gastos Funerarios o
+- Incapacidad Permanente.
+Frente a la X deberá registrar el valor reclamado de acuerdo con la normatividad vigente para la
+fecha del evento.
+IX. DECLARACIÓN DEL RECLAMANTE
+Se deben diligenciar de forma clara, el nombre e identificación del reclamante, así como la firma y
+huella dactilar, del índice derecho.
+6. FORMULARIO ÚNICO DE RECLAMACIÓN DE GASTOS DE TRANSPORTE Y
+MOVILIZACIÓN DE VÍCTIMAS - FURTRAN.
+6.1. INSTRUCTIVO DE DILIGENCIAMIENTO DEL FURTRAN.
+Nota: Este formato aplica para la presentación de reclamaciones por las empresas de transporte
+especial o Prestadores de Servicios de Salud debidamente habilitados.
+Instrucciones Generales:
+- Este amparo comprende los gastos de transporte y movilización de víctimas desde el sitio de
+ocurrencia del evento a la primera Institución Prestadora de Servicios de Salud, IPS, a donde sea
+llevada la víctima.
+- Para el caso de empresas o IPS especializadas en transporte, el presente formato debe presentarse
+en el anexo técnico conforme a las especificaciones que hacen parte integral de la presentación de la
+reclamación. Para las personas naturales la presentación del anexo técnico es opcional.
+I. DATOS DEL TRANSPORTADOR
+- Número de Radicado Anterior: (Respuesta a glosa u objeción, marcar x en RG). Campo
+diligenciado por las IPS, entidades o personas reclamantes, en los casos en que la presentación
+corresponda auna reclamación por respuesta a glosa, escriba el radicado dado por el Consorcio en la
+primera presentación.
+- Número de la Factura: Número que corresponde al sistema de numeración o consecutivo de cada
+entidad según las disposiciones de la DIAN.
+- Código de habilitación del Prestador: Registre el código de habilitación asignado por la Entidad
+Territorial si el servicio de traslado es realizado por una IPS.
+Si quien realiza el traslado es persona natural, los campos a registrar serán los correspondientes al
+reclamante, para el caso de empresas especializadas de transporte, debe diligenciar los datos del
+conductor de la ambulancia.
+- Primer Nombre, Primer Apellido: Escribir claramente y en cada campo el primer nombre y apellido
+de la persona que hace el traslado.
+- Segundo Nombre, Segundo Apellido: Escribir claramente y en cada campo el segundo nombre y
+apellido de la persona que hace la reclamación cuando el transporte primario es prestado por una
+persona natural.
+- Tipo de Documento del conductor que realiza el traslado: diligencie el tipo de documento según
+corresponda:
+CC = Cédula de Ciudadanía.
+CE = Cédula de Extranjería.
+PA = Pasaporte.
+CD = Carné Diplomático
+PE = Permiso Especial de Permanencia
+PT = Permiso de Protección Temporal
+Si quien realiza el traslado es persona natural, los campos a registrar serán los correspondientes al
+reclamante, para el caso de empresas especializadas de transporte, se debe diligenciar los datos del
+conductor de la ambulancia.
+- Número de Documento: Si quien realiza el transporte primario es persona natural o conductor de la
+ambulancia, diligencie el número del documento de identidad.
+- Tipo de vehículo o Ambulancia: Diligencie según corresponda (Ver tabla de descripción de
+campos del FURPEN).
+- Placa del vehículo: Registre el número de placa de la ambulancia o vehículo en la que se trasladó la
+víctima.
+- Dirección Domicilio, Departamento, Municipio, Teléfono: Registre en cada uno de los campos de
+dirección, departamento, municipio y teléfono del conductor o de la empresa que realizó el
+transporte.
+II. DATOS DE LA VICTIMA TRASLADADA
+- Tipo Documento: Escriba el tipo de documento de la víctima de acuerdo con la siguiente
+codificación:
+CC=Cédula de ciudadanía.
+CE=Cédula de extranjería.
+CN= Certificado de Nacido Vivo
+PA=Pasaporte.
+RC=Registro civil.
+TI=Tarjeta de identidad.
+AS=Adulto sin identificar.
+MS=Menor sin identificar.
+CD= Carné Diplomático
+SC= Salvoconducto
+PE= Permiso Especial de Permanencia
+DE= Documento Extranjero
+PT= Permiso por Protección Temporal
+En los casos en que la víctima sea persona no afiliada al SGSSS, no tenga identificación y no sea
+posible obtener la misma por parte de la institución prestadora de servicios de salud, su
+identificación corresponderá al tipo AS (Adulto sin identificar) o MS (Menor sin identificar), según
+sea el caso de conformidad con la siguiente tabla de la Resolución 4622 de 2016 así:
+Condición Tipo de
+Documento Longitud
+Máxima Composición del número de identificación
+Personas de la tercera
+edad en protección de
+ancianatos.
+AS 10 Código de departamento + código de municipio
++ S + consecutivo por afiliado (Alfanumérico).
+Ej: 08001S8125
+Indígenas mayores de edad AS 10 Código de departamento + código de municipio
++ I + consecutivo por afiliado (Alfanumérico de
+4). Ej: 76001I8125
+Habitantes de la calle
+mayores de edad. AS
+10 Código de departamento + municipio + D +
+consecutivo por afiliado (Alfanumérico de 4).
+Ej: 05001D0008
+Habitantes de la calle
+menores de edad.
+MS
+10 Departamento + municipio + D + consecutivo
+por afiliado (4 dígitos). Ej: 05001D0008Código
+de departamento + código de municipio + A +
+consecutivo por afiliado (Alfanumérico de 4).
+Ej: 25001A0009
+Población infantil
+vulnerable bajo protección
+en instituciones diferentes
+al ICBF.
+MS
+10
+Menores de edad a cargo
+del ICBF. Indígenas
+menores de edad MS
+12 Código de departamento + código de municipio
++ I + consecutivo por afiliado (Alfanumérico de
+4). Ej: 080014I8125. Solo aplica para Régimen
+Subsidiado.
+Menores de edad
+desmovilizados y/o que
+celebren acuerdos de paz
+con el Gobierno nacional.
+MS
+10 Departamento + municipio + P + consecutivo
+por afiliado (4 dígitos). Ej: 05001P0008 *Las
+entidades Territoriales y las EPSS deben
+gestionar la plena identificación del menor y
+reportar la actualización del documento a la
+BDUA.
+Mayores de edad
+desmovilizados y/o que
+celebren acuerdos de paz
+con el Gobierno nacional AS
+10 Departamento + municipio + P + consecutivo
+por afiliado (4 dígitos). Ej: 05001P0008. *Las
+entidades Territoriales y las EPSS deben
+gestionar la plena identificación de esta
+población y reportar la actualización del
+documento a la BDUA.
+Población privada de la
+libertad a cargo de las
+entidades territoriales MS
+6 Número asignado por el Inpec. Para menores de
+tres (3) años que convivan con sus madres
+recluidos en los establecimientos a cargo del
+Inpec.
+AS Número asignado por el Inpec. Para internos recluidos en
+los establecimientos de reclusión a cargo del Inpec.
+Para las víctimas extranjeras con identificación se utiliza el tipo de documento DE y el número del
+documento que presenta la víctima. Para las víctimas extranjeras que no presentan identificación se
+utiliza el documento MS, AS y el número de documento debe registrarse aplicando las
+especificaciones de la circular externa 029 de 2017 y 024 de 2019.
+- Número de Documento: Escriba el número de documento.
+- Primer nombre, Segundo Nombre, Primer Apellido, Segundo apellido, Fecha de nacimiento:
+Escriba en cada casilla los datos correspondientes a nombres y apellidos de la víctima.
+- Sexo: Relacione según corresponda la víctima. M para Masculino F para Femenino y O para otros,
+este campo es de obligatorio diligenciamiento.
+III. IDENTIFICACIÓN TIPO DE EVENTO
+- Tipo de evento: Diligencie según corresponda
+1 = Accidente de Tránsito,
+2 = Evento Catastrófico de Origen Natural
+3 = Evento Terrorista
+IV. LUGAR EN EL QUE SE RECOGE LA VÍCTIMA
+- Dirección, Departamento, Municipio, Zona: Registrar con claridad los datos de ubicación en donde
+se recoge la víctima.
+V. CERTIFICACIÓN DE TRASLADO DE VÍCTIMAS
+- fecha y hora: Registrar la fecha y hora en la que se trasladó la víctima a la IPS en formato
+DD/MM/AAAA y hh:mm respectivamente.
+- Código de habilitación que atendió la víctima: Registrar el código de habilitación de la IPS que
+recibe la víctima.
+- Dirección, Departamento, Municipio, Teléfono: Escriba los datos donde se recoge la víctima.
+VI. DATOS OBLIGATORIOS SI EL EVENTO ES UN ACCIDENTE DE TRÁNSITO
+Esta sección es de obligatorio diligenciamiento cuando se trate de accidente de tránsito
+- Condición de la víctima: (Ver parámetros técnicos de la tabla 3.2 de la presente circular).
+1 = Conductor
+2 = Peatón
+3 = Ocupante
+4 = Ciclista
+- Estado de Aseguramiento: (Ver parámetros técnicos de la tabla 3.2 de la presente circular).
+1 = Asegurado
+2 = No asegurado
+3 = Vehículo fantasma
+4 = Póliza falsa
+5 = Vehículo en fuga
+6 = Asegurado D.2497
+7 = No asegurado -propietario Indeterminado
+- Tipo de Vehículo: (Ver parámetros técnicos de la tabla 3.2 de la presente circular).
+1 = Automóvil
+2 = Bus
+3 = Buseta
+4 = Camión
+5 = Camioneta
+6 = Campero
+7 = Microbús
+8 = Tractocamión
+10 = Motocicleta
+14 = Motocarro
+17 = Moto triciclo
+19 = Cuatrimoto
+20 = Moto Extrajera
+21 = Vehículo Extranjero
+22 = Volqueta
+- Placa del vehículo involucrado: Diligencie de acuerdo con la información registrada en la tarjeta de
+propiedad.
+- Código de la Aseguradora: Campo obligatorio cuando el vehículo involucrado contaba con póliza
+SOAT a tarifa diferencial de acuerdo con el Decreto 2497 o presentó póliza falsa.
+Corresponde a la compañía de Seguros que expidió la póliza, el cual deberá diligenciarse, de
+acuerdo con el código “AT” que se informe en la caratula de la póliza. Este campo es de obligatorio
+diligenciamiento, sólo cuando el estado del vehículo es «Asegurado D.2497».
+La ADRES no es una aseguradora de vehículos por lo tanto no debe ir ningún código si el vehículo
+es no asegurado.
+- Número de la Póliza: Campo obligatorio cuando el vehículo está asegurado o con póliza falsa. La
+fuente de información para este caso será la que se tome del SOAT. Este campo es de obligatorio
+diligenciamiento sólo cuando el estado del vehículo es Asegurado D.2497.
+- Fecha de Vigencia de Póliza: Campo obligatorio cuando el vehículo está asegurado D.2497 o con
+póliza falsa. El formato de la fecha es DD/MM/AAAA.
+- Código de habilitación del prestador: Escriba el código del prestador asignado por la Dirección
+Departamental o Distrital de Salud, conforme a las normas vigentes, al realizar la inscripción en el
+Registro Especial de Prestadores de Servicios de Salud. Este campo es de obligatorio
+diligenciamiento.
+- Primer Apellido, Segundo Apellido, Primer Nombre, Segundo Nombre: Escriba los nombres y
+apellidos del conductor. Estos campos son de obligatorio diligenciamiento
+- Tipo de Documento de Identidad: Este campo es de obligatorio diligenciamiento. Diligencie el tipo
+de documento, según corresponda:
+CC = Cédula de Ciudadanía.
+CE = Cédula de Extranjería.
+PA = Pasaporte.
+CD = Carné Diplomático
+PT = Permiso por Protección Temporal
+PE = Permiso Especial de Permanencia
+DE = Documento Extranjero
+- Número de documento de identidad del reclamante o conductor de la ambulancia: Cuando el
+reclamante sea un particular persona natural, se debe diligenciar el número de documento de quien
+reclama. Si el reclamante es un Prestador de Servicios de Ambulancias, se debe registrar la
+información del conductor.
+- Tipo de Vehículo o de servicio de ambulancia: Diligencie según corresponda:
+1 = Ambulancia básica
+2 = Ambulancia medicalizada
+3 = Particular
+4 = Público
+5 = Oficial
+6 = De emergencia
+7 = Diplomático o consular
+8 = Transporte masivo
+9 = Escolar
+- Placa del vehículo en el que se realizó el traslado: Diligenciar de acuerdo con la información
+registrada en la tarjeta de propiedad.
+- Dirección, teléfono, Municipio y Departamento del Reclamante: Campo obligatorio cuando
+reclame una persona natural.
+- Número de radicado SIRAS: Cuando la naturaleza del evento sea «01=Accidente de tránsito», se
+deberá registrar el número id_atención, generado por el sistema SIRAS cuando la IPS reporta la
+atención.
+Para los eventos catastróficos de origen natural o terrorista, se diligenciará al número de consecutivo
+interno asignado por la entidad reclamante.
+VII. AMPAROS RECLAMADOS
+- Valor Facturado: Corresponde al valor registrado en la factura del prestador.
+- Valor Reclamado: Registre el menor valor entre el facturado y el tope definido en la norma para
+transporte primario.
+VIII. MANIFESTACIÓN DEL SERVICIO HABILITADO DEL PRESTADOR DE SERVICIOS
+DE SALUD
+- Manifestación de Servicios Habilitados: Al diligenciar este campo el Prestador de Servicios en
+Salud certifica que los servicios facturados fueron prestados por la atención de víctimas de los
+eventos cubiertos por la ADRES y que éstos se encuentran habilitados para la fecha de prestación de
+servicios.
+6.2. TABLA 3 ANEXO TÉCNICO FURTRAN.
+Nombre del archivo: FURTRANCODIGOHABILITACIONDDMMAAAA donde:
+FURTRAN: Formulario único de reclamación de gastos de transporte y movilización de víctimas.
+CÓDIGO HABILITACIÓN: Código de la IPS que certifico.
+DDMMAAAA: Fecha de emisión de la certificación.
+No
+Columna Concepto Descripción Valores permitidos Longitud
+I. Datos del transportador
+reclamante.
+1 Número del
+radicado anterior Campo obligatorio en caso de
+diligenciarse RG (Respuesta a
+glosa)
+10
+2
+RGRespuesta a
+Glosa u objeción
+Diligenciar en los siguientes
+casos:
+0 = Glosa u objeción Total
+1 = Pago Parcial
+6 = Glosa Transversal
+Si la reclamación es nueva, el
+campo es vacío.
+0,1, 6Vacío
+parareclamacionesnuevas
+1
+3 Número de
+factura o
+documento
+equivalente
+Campo obligatorio.Número que
+corresponde al sistema de
+numeración o consecutivo de
+cada entidad según las
+disposiciones de la DIAN.
+20
+4
+Código de
+habilitación del
+prestador de
+servicios de
+salud.
+Campo obligatorio para
+empresas especializadas de
+transporte médico. Se registra el
+código de habilitación asignado
+por la Dirección Departamental
+de Salud.
+12
+5 Primer apellido
+de la persona
+natural
+reclamante o
+conductor de la
+ambulancia
+Campo obligatorio si el
+reclamante corresponde a
+persona natural o conductor de la
+ambulancia.
+20
+6 Segundo apellido
+de la persona
+natural
+reclamante o
+conductor de la
+ambulancia
+30
+7 Primer nombre de
+la persona natural
+reclamante o
+conductor de la
+ambulancia
+Campo obligatorio si el
+reclamante corresponde a
+persona natural o conductor de la
+ambulancia.
+20
+8 Segundo nombre
+de la persona
+natural
+reclamante o
+conductor de la
+ambulancia
+30
+9 Tipo de
+documento de
+identificación del
+reclamante o
+conductor de la
+ambulancia
+Campo obligatorio si el
+reclamante corresponde a
+persona natural o conductor de la
+ambulancia.CC = Cédula de
+ciudadanía.
+CE = Cédula de extranjería.
+PA = Pasaporte.
+CD = Carné Diplomático
+PE = Permiso Especial de
+Permanencia
+DE = Documento Extranjero
+PT = Permiso por Protección
+Temporal
+CC, CE, PA, CD, PE,
+PT, DE 2
+10
+Número de
+documento de
+identidad del
+reclamante o
+conductor de la
+ambulancia
+Campo obligatorio si el
+reclamante corresponde a
+persona natural y se registra
+como aparece en el documento
+de identidad.
+16
+11 Tipo de Vehículo
+o de servicio de
+ambulancia
+Campo obligatorio.De acuerdo
+con las definiciones en el Código
+Nacional de Tránsito Terrestre
+(Ley 769 de 2002) y el anexo
+técnico No. 1 de la Resolución
+1439 de 2002:
+1 = Ambulancia básica
+2 = Ambulancia medicalizada
+3 = Particular
+4 = Público
+5 = Oficial
+6 = De emergencia
+7 = Diplomático o consular
+8 = Transporte masivo
+9 = Escolar
+0, 1,2, 3, 4, 5, 6, 7, 8, 9 1
+12 Placa del vehículo
+en el que se
+realizó el traslado
+Campo obligatorio.Como se
+registra en la tarjeta de
+propiedad.
+10
+13 Dirección del
+reclamante Campo obligatorio cuando el
+reclamante es persona natural 40
+14 Teléfono del
+reclamante Campo obligatorio cuando el
+reclamante es persona natural 10
+15 Código del
+departamento de
+residencia del
+reclamante
+Campo obligatorio cuando el
+reclamante es persona natural Codificación DANE 2
+16 Código del
+municipio de
+residencia del
+reclamante
+Campo obligatorio cuando el
+reclamante es persona natural
+Codificación DANE 3
+II. Relación de víctima trasladada.
+17 Tipo de
+documento de
+identidad de la
+víctima
+Campo obligatorio.CC=Cédula
+de ciudadanía.
+CE=Cédula de extranjería.
+CN= Certificado de Nacido Vivo
+PA=Pasaporte.
+RC=Registro civil.
+TI=Tarjeta de identidad.
+AS=Adulto sin identificar.
+MS=Menor sin identificar.
+CD= Carné Diplomático
+SC= Salvoconducto
+PE= Permiso Especial de
+Permanencia
+DE= Documento Extranjero
+PT= Permiso por Protección
+Temporal
+CC, CE, CN, PA, RC,
+TI, AS, MS,CD, SC, PE,
+PT, DE,
+2
+18 Número de
+documento de
+identidad de la
+víctima
+Campo obligatorio.Corresponde
+al número de identificación de la
+víctima.Para las víctimas con
+identificación MS o AS deben
+aplicarse las especificaciones de
+la Resolución 4622 de 2016.
+16
+19 Primer nombre de
+la víctima
+Campo obligatorio. Como se
+registra en el documento de
+identidad.
+20
+20 Segundo nombre
+de la víctima
+30
+21
+Primer apellido
+de la víctima
+Campo obligatorio. Como se
+registra en el documento de
+identidad.
+20
+22 Segundo apellido
+de la víctima 30
+23 Fecha de
+nacimiento de la
+víctima
+Campo obligatorio. Corresponde
+a la fecha de nacimiento de la
+víctima.
+FormatoDD/MM/AAAA 10
+24 Sexo de la
+víctima
+Campo obligatorio.
+F = Femenino
+M = Masculino
+0 = Otro
+F, M, O 1
+III. Identificación del tipo de evento
+25 Tipo de evento
+que suscita la
+movilización
+Campo obligatorio.
+1 = Accidente de tránsito
+2 = Evento Catastrófico
+3 = Evento Terrorista
+1,2,3 1
+IV. Lugar donde se recoge a las víctimas.
+26 Dirección donde
+recoge la víctima Campo obligatorio. 40
+27 Código
+departamento
+donde se recoge
+la víctima
+Campo obligatorio.
+Según codificación
+DANE
+2
+28
+Código municipio
+donde se recoge
+la víctima
+Campo obligatorio.
+Según codificación
+DANE
+3
+29 Zona donde se
+recoge la víctima
+Campo obligatorio.
+U = Urbana
+R = Rural
+U, R 1
+V. Certificación de traslado de víctimas.
+30 Fecha de traslado
+de la víctima al
+primer centro
+asistencial
+Campo obligatorio. FormatoDD/MM/AAAA 10
+31 Hora de traslado
+al centro
+asistencial
+Campo obligatorio.
+Formato HH:MM (24
+Horas)
+5
+32 Código de
+habilitación de la
+IPS que recepción
+a la víctima
+Campo obligatorio. El código de
+habilitación asignado por la
+Dirección Departamental de
+Salud.
+12
+33 Código del
+departamento
+donde se recoge
+la víctima
+Campo obligatorio. Codificación DANE 2
+34
+Código del
+municipio donde
+se recoge la
+víctima
+Campo obligatorio. Codificación DANE 3
+VI. Datos obligatorios si el evento es un accidente de transito
+35
+Condición de la
+víctima
+Campo obligatorio para el tipo
+de evento 1 Accidentes de
+tránsito:
+1 = Conductor
+2 = Peatón
+3 = Ocupante
+4 = Ciclista
+1,2,3,4
+1
+36
+Estado de
+aseguramiento Campo obligatorio.
+1 = Asegurado
+2 = No asegurado
+3 = Vehículo fantasma
+4 = Póliza falsa
+5 = Vehículo en fuga
+1,2, 3, 4, 5, 6, 7 1
+6= Asegurado D.2497
+37 Tipo de Vehículo Campo obligatorio si el estado de
+aseguramiento es 1, 2, 4 o 6.
+1 = Automóvil
+2 = Bus
+3 = Buseta
+4 = Camión
+5 = Camioneta
+6 = Campero
+7 = Microbús
+8 = Tractocamión
+10 = Motocicleta
+14 = Motocarro
+17 = Moto triciclo
+19 = Cuatrimoto
+20 = Moto Extrajera:
+21 = Vehículo Extranjero:
+22 = Volqueta
+1,2, 3, 4, 5, 6, 7, 8,,10,
+14, 17, 19, 20, 21, 22 2
+38
+Placa del
+Vehículo
+involucrado
+Campo obligatorio, si el estado
+de aseguramiento es 1, 2, 4, 5, o
+6
+10
+39 Código de la
+aseguradora
+Campo obligatorio si el estado de
+aseguramiento es 1, 4 o 6.
+6
+40
+Número de póliza
+SOAT
+Campo obligatorio si el estado de
+aseguramiento es 1, 4 o 6. Como
+se registra en la póliza SOAT
+20
+41 Fecha de inicio de
+vigencia de la
+póliza
+Campo obligatorio si el estado de
+aseguramiento es 1, 4 o 6..
+FormatoDD/MM/AAAA
+10
+42
+Fecha final de
+vigencia de la
+póliza
+Campo obligatorio si el estado de
+aseguramiento es 1, 4 o 6. FormatoDD/MM/AAAA 10
+43
+Número de
+radicado SIRAS.
+Campo Obligatorio.Cuando la
+naturaleza del evento sea
+«1=Accidente de tránsito», se
+deberá registrar el número
+id_atención, generado por el
+sistema SIRAS cuando la IPS
+reporta la atención.
+Alfanumérico
+20
+VII. Amparo reclamado
+44 Valor facturado Total facturado por amparo de
+gastos de transporte primario Mayor o igual a cero 15
+45 Valor reclamado Total reclamado por amparo de
+gastos de transporte primario
+Mayor o igual a cero 15
+VIII. Manifestación del servicio habilitado del prestador de servicios
+de salud
+46 Manifestación de
+servicios
+habilitados
+Campo obligatorio. El
+reclamante certifica que el
+servicio facturado de transporte
+se encuentra habilitado para la
+fecha de prestación de servicio
+SI = 1 NO = 0
+0, 1 1
+7. FORMULARIO DE REGISTRO Y/O ACTUALIZACIÓN DE IPS ANTE LA ADRES.
+8. FORMULARIO ÚNICO DE CERTIFICADO DE TOPE DE LA ASEGURADORA SOAT-
+FURCTAS.
+- Código de habilitación del prestador: Escriba el código del prestador asignado por la Dirección
+Departamental o Distrital de Salud, conforme a las normas vigentes, al realizar la inscripción en el
+Registro Especial de Prestadores de Servicios de Salud. Este campo es de obligatorio
+diligenciamiento.
+- Número de Factura: Número que corresponde al sistema de numeración o consecutiva de cada
+entidad según las disposiciones de la DIAN.
+- Número de consecutivo de la reclamación: Número interno asignado por el Prestador de Servicios
+de Salud
+- Tipo de Servicio: Seleccionar el tipo de tecnología en salud a reclamar de acuerdo con la siguiente
+definición:
+1=Medicamentos
+2=Procedimientos
+3=Transporte Primario
+4=Transporte secundario
+5=Insumos
+6=Dispositivos Médicos
+7=Material de Osteosíntesis
+8=Procedi miento no incluido en el manual tarifario
+- Código del Servicio: Para el caso de los medicamentos aplicar código CUM del INVIMA y del
+Ministerio de Salud y Protección Social, conformado por el Numero del expediente, guion (-) y el
+consecutivo y los medicamentos vitales no disponibles autorizados para importación, registrar el
+código IUM otorgado por el Invima
+Para el caso de los servicios médicos quirúrgicos que incluya honorarios, estancias, ayudas
+diagnósticas, derechos de sala quirúrgica e insumos del grupo quirúrgico 1 al 13 aplicar los códigos
+del anexo 1 del Decreto 780/16.
+- Descripción del servicio o elemento reclamado: Campo obligatorio: Se debe realizar una pequeña
+descripción del elemento reclamado cuando el tipo de servicio es (3), cuatro (4), cinco (5), seis (6),
+siete (7) y ocho (8).
+- Cantidad de servicios: Registrar las unidades de los servicios o tecnologías de salud reclamados.
+- Valor unitario Facturado: Registrar el valor unitario facturado
+- Valor total facturado: Corresponde al producto de la cantidad de servicios multiplicado por los
+valores unitarios establecidos
+- Valor total reclamado: Corresponde al valor reclamado por el prestador, que en ningún caso puede
+ser superior al valor facturado.
+8.1. TABLA 4 - ANEXO TÉCNICO PARA EL DILIGENCIAMIENTO DEL FUCTAS.
+Nombre del archivo: FUCTAS2CODIGOASEGURADORAMMAAAA donde:
+FUCTAS2 = Obligatorio, indica que el archivo corresponde a FUCTAS.
+CODIGOASEGURADORA = Código de la Aseguradora.
+MMAAAA = Periodo del reporte.
+No.
+Columna Concepto
+Descripción Valores
+permitidos Longitud
+I. Datos de la reclamación pagada
+1 Código
+Aseguradora. Campo obligatorio 6
+2 Fecha
+Certificación
+Fecha en que expide la certificación Formato DD/MM/AAAA
+3 Código
+Habilitación de la
+IPS reclamante
+12
+4
+Tipo documento
+de la víctima
+Diligencie según corresponda:
+CC = Cédula de Ciudadanía.
+CE = Cédula de Extranjería.
+CN = Certificado de Nacido Vivo
+PA = Pasaporte.RC = Registro Civil.
+TI = Tarjeta de Identidad.
+AS = Adulto sin identificación.
+MS = Menor sin identificación
+PT = Permiso por Protección
+Temporal
+PE = Permiso Especial de
+Permanencia
+SC = Salvoconducto
+CD = Carné Diplomático
+DE = Documento Extranjero
+CC, CE, CN, PA,
+RC, TI, AS, MS,
+CD, SC, PE, PT,
+DE
+2
+5 Número
+documento de la
+víctima
+Campo obligatorio.Para las víctimas
+sin identificar se debe usar MS o AS
+de acuerdo con las especificaciones de
+la Resolución 4622 de 2016.
+16
+6 Fecha del evento Formato DD/MM/AAAA 10
+7 Número de Póliza
+8 Número factura. Campo obligatorioNúmero que
+corresponde al sistema de numeración
+o consecutiva de cada entidad según
+las disposiciones de la DIAN de la
+factura reconocida por la aseguradora.
+20
+II. Datos de los valores reconocidos.
+9 Tipo de servicios Campo obligatorio.Seleccionar el tipo
+de tecnología en salud a reclamar de
+acuerdo con la siguiente definición:
+1=Medicamentos
+2=Procedimientos
+3=Transporte Primario
+4=Transporte secundario
+5=Insumos
+6=Dispositivos Médicos
+7=Material de Osteosíntesis
+8=Procedimiento no incluido en el
+manual tarifario
+1,2, 3, 4, 5, 6,7, 8 1
+10 Código del
+servicio Campo obligatorio.Para el caso de los
+medicamentos aplicar código CUM del
+INVIMA y del Ministerio de Salud y
+Protección Social, conformado por el
+No. de expediente-consecutivo.
+Ejemplo: 230327-1Para los
+medicamentos vitales no disponibles
+autorizados para importación, registrar
+el código IUM otorgado por el
+InvimaPara el caso de los servicios
+médicos quirúrgicos que incluya
+honorarios, estancias, ayudas
+diagnósticas, derechos de sala
+quirúrgica e insumos del grupo
+quirúrgico 1 al 13 aplicar los códigos
+del anexo 1 del Decreto 780/16Para los
+tipos de servicio 3, 4, 5, 6 y 7 este
+campo es vacío.
+Codificación
+CUM si tipo de
+servicio es uno
+(1)Decreto
+2644/2022 si tipo
+de servicio es dos
+(2)Campo vacío
+para tipo de
+servicio tres (3),
+cuatro (4), cinco
+(5), seis (6), siete
+(7) y ocho (8)
+15
+11 Descripción del
+servicio o
+elemento
+reclamado
+Campo obligatorio.Registrar la
+descripción del ítem reclamado.
+40
+12 Cantidad de
+servicios
+aprobados
+Campo obligatorio Mayor a cero 15
+13 Valor unitario
+aprobado Campo obligatorio.No utilizar ningún
+tipo de separador de miles. Mayor a cero 15
+14 Valor total
+aprobado Campo obligatorio.No utilizar ningún
+tipo de separador de miles.
+Corresponde al producto de la cantidad
+de servicios multiplicado por los
+valores unitarios establecidos
+Mayor a cero 15
+9. FORMULARIO ÚNICO DE CERTIFICACIÓN DEL CENSO DE VÍCTIMAS EVENTOS
+CATASTRÓFICOS-FURCEN.
+9.1. INSTRUCTIVO DE DILIGENCIAMIENTO DEL FURCEN.
+Nota: Este formato aplica para los Consejos municipales de gestión del riesgo de desastres en el que
+se incluyen las víctimas de evento terrorista o catastrófico.
+Instrucciones Generales:
+- Se debe diligenciar en forma clara, sin enmendaduras.
+- Este formato debe allegarse junto con el anexo técnico conforme a las especificaciones que hacen
+parte integral de la presentación de la reclamación.
+- Este formato junto con el anexo técnico se enviará a la Administradora de los Recursos del Sistema
+General de Seguridad Social en Salud - ADRES o a quien haga sus veces, con copia a la Oficina de
+Gestión Territorial, Emergencias y Desastres del Ministerio de Salud y Protección Social. La entidad
+que realizó el correspondiente censo se quedará con copia de este documento.
+RADICACIÓN
+- Fecha de expedición del certificado: Campo diligenciado por la entidad competente.
+I. IDENTIFICACIÓN DEL EVENTO CATASTRÓFICO
+- Tipo de Evento: Marque con X el tipo de evento si es catastrófico natural o terrorista y seleccione
+cual.
+- Fecha y Hora del Evento: Escribir la fecha en formato Día, Mes, Año en la casilla asignada y la
+hora en formato 24 horas. Ejemplo:
+20 de noviembre de 2015 a la 1:52 p.m.
+D D M M A AAA
+Fecha del Evento 2 0 1 1 2 0 1 5
+H H M M
+Hora 1 3 5 2
+- Dirección donde ocurrió el evento, Departamento, Municipio: Escribir con claridad los datos de
+ubicación del evento.
+II. IDENTIFICACIÓN DE LAS VICTIMAS DEL EVENTO CATASTRÓFICO
+- En cada una de las líneas dispuestas en el formulario diligenciar los datos de identificación de cada
+víctima.
+- Tipo Documento: Escriba el tipo de documento de la víctima de acuerdo con la siguiente
+codificación:
+CC = Cédula de Ciudadanía.
+CE = Cédula de Extranjería.
+PA = Pasaporte.
+TI = Tarjeta de Identidad.
+RC = Registro Civil.
+AS = Adulto sin identificación
+MS = Menor sin identificación
+CD = Carné diplomático
+En los casos en que la víctima sea persona no afiliada al SGSSS, no tenga identificación y no sea
+posible obtener la misma por parte de la institución prestadora de servicios de salud, su
+identificación corresponderá al tipo AS (Adulto sin identificar) o MS (Menor sin identificar), según
+sea el caso de conformidad con la siguiente tabla de la Resolución 4622 de 2016 así:
+Condición
+Tipo de
+Documento
+Longitud
+Máxima Composición del número de identificación
+Personas de la tercera edad
+en protección de ancianatos. AS
+10 Código de departamento + código de
+municipio + S + consecutivo por afiliado
+(Alfanumérico). Ej: 08001S8125
+Indígenas mayores de edad AS
+10 Código de departamento + código de
+municipio + I + consecutivo por afiliado
+(Alfanumérico de 4). Ej: 76001I8125
+Habitantes de la calle
+mayores de edad.
+AS
+10 Código de departamento + municipio + D +
+consecutivo por afiliado (Alfanumérico de
+4). Ej: 05001D0008
+Habitantes de la calle
+menores de edad.
+MS
+10 Departamento + municipio + D +
+consecutivo por afiliado (4 dígitos). Ej:
+05001D0008Código de departamento +
+código de municipio + A + consecutivo por
+afiliado (Alfanumérico de 4). Ej:
+25001A0009
+Población infantil
+vulnerable bajo protección
+en instituciones diferentes al
+ICBF.
+MS
+10
+Menores de edad a cargo del
+ICBF.Indígenas menores de
+edad
+MS
+12 Código de departamento + código de
+municipio + I + consecutivo por afiliado
+(Alfanumérico de 4). Ej: 080014I8125. Solo
+aplica para Régimen Subsidiado.
+Menores de edad
+desmovilizados y/o que
+celebren acuerdos de paz
+con el Gobierno nacional.
+MS
+10 Departamento + municipio + P +
+consecutivo por afiliado (4 dígitos). Ej:
+05001P0008 *Las entidades Territoriales y
+las EPSS deben gestionar la plena
+identificación del menor y reportar la
+actualización del documento a la BDUA.
+Mayores de edad
+desmovilizados y/o que
+celebren acuerdos de paz
+con el Gobierno nacional
+AS
+10 Departamento + municipio + P +
+consecutivo por afiliado (4 dígitos). Ej:
+05001P0008. *Las entidades Territoriales y
+las EPSS deben gestionar la plena
+identificación de esta población y reportar la
+actualización del documento a la BDUA.
+Población privada de la
+libertad a cargo de las
+entidades territoriales MS
+6 Número asignado por el Inpec. Para
+menores de tres (3) años que convivan con
+sus madres recluidos en los establecimientos
+a cargo del Inpec.
+AS Número asignado por el Inpec. Para internos recluidos
+en los establecimientos de reclusión a cargo del Inpec.
+Para las víctimas extranjeras con identificación se utiliza el tipo de documento DE y el número del
+documento que presenta la víctima. Para las víctimas extranjeras que no presentan identificación se
+utiliza el documento MS, AS y el número de documento debe registrarse aplicando las
+especificaciones de la circular externa 29 de 2017
+- Número de Documento: Escribir el número de documento de identidad correspondiente a la
+víctima.
+- Primer Apellido, Segundo Apellido, Primer Nombre, Segundo Nombre: Escribir los nombres y
+apellidos de las víctimas de forma legible en cada una de las casillas diseñadas para cada campo.
+III. APROBACIÓN DE CERTIFICACIÓN
+- Primer Apellido Segundo Apellido Primer Nombre Segundo Nombre: Escribir los nombres y
+apellidos de la persona que certifica que las personas relacionadas son víctimas del evento descrito.
+- Tipo de documento: Marque con una X el tipo de documento al que corresponde.
+- Número de Documento: Escribir el número de identificación del documento.
+9.2. Tabla 5. ARCHIVO FURCEN (Identificación del evento catastrófico y aprobación de
+certificación)
+Nombre del archivo: FURCENCODIGOEVENTODDMMAAAAMMHH donde:
+FURCEN= Obligatorio, indica que el archivo corresponde a FURCEN.
+CODIGOEVENTO= Código del evento de ocurrencia.
+DDMMAAAA= Fecha de ocurrencia evento.
+HHMM= Hora de ocurrencia del evento.
+En esta certificación deben relacionar las víctimas afectadas en su integridad física (Heridas) o
+personas fallecidas.
+No
+Columna Concepto Descripción Valores permitidos Longitud
+1. Identificación del evento catastrófico.
+1 Fecha de
+certificación Campo obligatorio FormatoDD/MM/AAAA 10
+2 Fecha del evento Campo obligatorio. FormatoDD/MM/AAAA 10
+3 Hora del evento Campo obligatorio. Formato HH:MM (24
+Horas) 5
+4 Naturaleza del
+evento Campo obligatorio.
+2 = Sismo
+3 = Maremoto
+4 = Erupción volcánica
+5 = Deslizamiento de tierra
+6 = Inundación
+7 = Avalancha
+8 = Incendio natural
+9 = Explosión terrorista
+10 = Incendio terrorista
+11 = Combate
+12 = Ataques a Municipios
+13 = Masacre
+14 = Desplazados
+15 = Mina antipersonal
+16 = Huracán
+17 = Otro
+25 = Rayo
+26 = Vendaval
+27 = Tornado
+02, 03, 04, 05, 06, 07,
+08, 09, 10, 11, 12, 13,
+14, 15, 16,17, 25, 26, 27
+2
+5
+Descripción de otro
+evento
+Campo obligatorio si la
+naturaleza del evento es otro
+(17)
+25
+6
+Dirección o lugar
+deocurrencia del
+evento
+Campo obligatorio 40
+7 Código del
+departamento
+donde ocurrió el
+evento
+Campo obligatorio CodificaciónDANE 2
+8
+Código del
+municipio donde
+ocurrió el evento
+Campo obligatorio
+CodificaciónDANE
+3
+9 Zona donde ocurrió
+el evento
+Campo obligatorio U = Urbana
+R = Rural
+U, R 1
+2. identificación de las víctimas en el evento catastrófico.
+10 Tipo de documento
+de identidad de la
+víctima
+Campo obligatorio.
+CC=Cédula de ciudadanía.
+CE=Cédula de extranjería.
+CN= Certificado de Nacido
+Vivo
+PA=Pasaporte.
+RC=Registro civil.
+CC, CE, CN, PA, RC,
+TI, AS, MS, CD, SC,
+PE, DE, PT
+2
+TI=Tarjeta de identidad.
+AS=Adulto sin identificar.
+MS=Menor sin identificar.
+CD= Carné Diplomático
+SC= Salvoconducto
+PE= Permiso Especial
+dePermanencia
+DE= Documento Extranjero
+PT= Permiso por Protección
+Temporal
+11 Número de
+documento de
+identidad de la
+víctima
+Campo obligatorio.Para las
+víctimas sin identificar se debe
+usar MS o AS de acuerdo con
+las especificaciones de la
+Resolución 4622 de 2016.
+16
+12
+Primer nombre de
+la víctima
+Campo obligatorio.Como se
+registra en el documento de
+identidad. En el caso de no
+identificarse usar NN.
+20
+13 Segundo nombre
+de la víctima
+Como se registra en el
+documento de identidad
+30
+14 Primer apellido de
+la víctima
+Campo obligatorio.Como se
+registra en el documento de
+identidad. En el caso de no
+identificarse usar NN
+20
+15 Segundo apellido
+de la víctima
+Como se registra en el
+documento de identidad
+30
+3. Aprobación de certificación.
+16
+Primer apellido de
+la persona
+certificadora
+Campo obligatorioComo se
+registra en el documento de
+identidad
+20
+17 Segundo apellido
+de la persona
+certificadora
+30
+18 Primer nombre de
+la persona
+certificadora
+Campo obligatorioComo se
+registra en el documento de
+identidad
+20
+19 Segundo nombre
+de la persona
+certificadora
+30
+20 Tipo de documento
+de identidad de la
+persona
+certificadora
+Campo obligatorio.
+CC = Cédula de ciudadanía.
+CE = Cédula de extranjería.
+PA = Pasaporte.
+CC, CE, PA 2
+21 Numero de
+documento de
+identidad de la
+persona
+certificadora
+Campo obligatorio 16
+22 Autoridad
+certificadora Campo obligatorio
+1 = Comités locales y/o 1, 2, 3, 4, 5, 6, 7 1
+regionales de emergencias.
+2 = Alcalde de la localidad.
+3 = Procuraduría General de la
+Nación.
+4 = Dirección General Unidad
+Administrativa Especial para
+los Derechos Humanos del
+Ministerio del Interior y de
+Justicia.
+5 = Personería municipal o
+distrital.
+6 = Defensoría del Pueblo.
+7 = Autoridades
+correspondientes de la Policía
+Nacional o Ejercito
+23 Total Folios Campo obligatorio 3
+ANEXO 1 - Tabla para diligenciamiento del campo descripción en el FURIPS 2 cuando el código
+corresponde a los numerales 47, 48 y 54 del Anexo 1 del Decreto 780 de 2016
+<Anexo publicado en el Diario Oficial>
+<Consultar anexo original directamente en el siguiente enlace:
+https://normograma.com/documentospdf/PDF/C_ADRES_0008_2023.pdf
+Disposiciones analizadas por Avance Jurídico Casa Editorial Ltda.
+ADRES
+n.d.
+Última actualización: 30 de Mayo de 2025 - (Diario Oficial No. 53.125 - 22 de Mayo de 2025)
+logo

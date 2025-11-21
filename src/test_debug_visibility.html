@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Test Debug - Visibilidad Aseguradora</title>
+    <style>
+        body {
+            font-family: Arial;
+            padding: 20px;
+        }
+
+        .test-section {
+            border: 2px solid #ccc;
+            padding: 15px;
+            margin: 10px 0;
+        }
+
+        #log {
+            background: #f8f9fa;
+            padding: 10px;
+            font-family: monospace;
+            font-size: 12px;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+
+        .success {
+            color: green;
+            font-weight: bold;
+        }
+
+        .error {
+            color: red;
+            font-weight: bold;
+        }
+
+        .info {
+            color: blue;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Test Debug - Visibilidad Datos Aseguradora</h1>
+
+    <div class="test-section">
+        <h3>1. Tipo de Servicio</h3>
+        <select id="servicio" onchange="testCombined()">
+            <option value="TAB">TAB - Traslado Asistencial Básico</option>
+            <option value="TAM">TAM - Traslado Asistencial Medicalizado</option>
+            <option value="APH">APH - Atención Prehospitalaria</option>
+        </select>
+    </div>
+
+    <div class="test-section">
+        <h3>2. Pagador</h3>
+        <select id="pagador" onchange="testCombined()">
+            <option value="Particular">Particular</option>
+            <option value="SOAT">SOAT</option>
+            <option value="ADRES">ADRES</option>
+            <option value="EPS">EPS</option>
+            <option value="ARL">ARL</option>
+        </select>
+    </div>
+
+    <div class="test-section">
+        <h3>3. Contenedor datos-soat</h3>
+        <div id="datos-soat" style="display: none; border: 2px solid blue; padding: 10px;">
+            <p><strong>Este es el contenedor datos-soat</strong></p>
+            <p>Estado actual: <span id="estado-display">OCULTO</span></p>
+        </div>
+    </div>
+
+    <div class="test-section">
+        <h3>4. Log de Depuración</h3>
+        <button onclick="clearLog()">Limpiar Log</button>
+        <div id="log"></div>
+    </div>
+
+    <script>
+        function log(msg, type = 'info') {
+            const logDiv = document.getElementById('log');
+            const time = new Date().toLocaleTimeString();
+            const className = type === 'error' ? 'error' : (type === 'success' ? 'success' : 'info');
+            logDiv.innerHTML += `<div class="${className}">${time}: ${msg}</div>`;
+            logDiv.scrollTop = logDiv.scrollHeight;
+        }
+
+        function clearLog() {
+            document.getElementById('log').innerHTML = '';
+        }
+
+        function testCombined() {
+            const servicio = document.getElementById('servicio').value;
+            const pagador = document.getElementById('pagador').value;
+            const datosSoat = document.getElementById('datos-soat');
+            const estadoDisplay = document.getElementById('estado-display');
+
+            log('=== INICIO TEST ===');
+            log(`Servicio seleccionado: ${servicio}`);
+            log(`Pagador seleccionado: ${pagador}`);
+
+            // Lógica del código real
+            const servicioValue = servicio.toLowerCase();
+            const isAPH = servicioValue === 'aph' || /prehospitalaria/i.test(servicioValue) || servicioValue.includes('aph');
+
+            const v = pagador.toLowerCase();
+            const isSOAT = v.includes('soat');
+            const isADRES = v.includes('adres');
+
+            const showDatos = (isSOAT || isADRES) && !isAPH;
+
+            log(`isAPH: ${isAPH}`, isAPH ? 'error' : 'info');
+            log(`isSOAT: ${isSOAT}`, isSOAT ? 'success' : 'info');
+            log(`isADRES: ${isADRES}`, isADRES ? 'success' : 'info');
+            log(`showDatos: ${showDatos}`, showDatos ? 'success' : 'error');
+
+            // Aplicar cambio
+            if (datosSoat) {
+                const displayValue = showDatos ? 'block' : 'none';
+                datosSoat.style.display = displayValue;
+                estadoDisplay.textContent = showDatos ? 'VISIBLE ✓' : 'OCULTO ✗';
+                estadoDisplay.style.color = showDatos ? 'green' : 'red';
+                log(`Aplicando display: ${displayValue}`, showDatos ? 'success' : 'error');
+
+                // Verificar que se aplicó
+                const computedStyle = window.getComputedStyle(datosSoat);
+                log(`Display computado: ${computedStyle.display}`, computedStyle.display === 'block' ? 'success' : 'error');
+            } else {
+                log('ERROR: elemento datos-soat no encontrado', 'error');
+            }
+
+            log('=== FIN TEST ===');
+        }
+
+        // Test inicial
+        window.addEventListener('DOMContentLoaded', () => {
+            log('Página cargada', 'success');
+            testCombined();
+        });
+    </script>
+</body>
+
+</html>

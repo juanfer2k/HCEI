@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Test - Visibilidad Aseguradora</title>
+    <style>
+        body { font-family: Arial; padding: 20px; }
+        .test-section { border: 2px solid #ccc; padding: 15px; margin: 10px 0; }
+        .hidden { display: none !important; }
+        .visible { display: block !important; background: #d4edda; }
+    </style>
+</head>
+<body>
+    <h1>Test de Visibilidad - Datos para Aseguradora</h1>
+    
+    <div class="test-section">
+        <h3>1. Select Pagador</h3>
+        <select id="pagador" onchange="testVisibility()">
+            <option value="Particular">Particular</option>
+            <option value="SOAT">SOAT</option>
+            <option value="ADRES">ADRES</option>
+            <option value="EPS">EPS</option>
+        </select>
+    </div>
+
+    <div class="test-section">
+        <h3>2. Contenedor Principal (datos-soat)</h3>
+        <div id="datos-soat" style="display: none; border: 2px solid blue; padding: 10px;">
+            <p><strong>Este es el contenedor principal</strong></p>
+            
+            <div id="aseguradora-soat-container" style="display: none; border: 2px solid green; padding: 10px; margin: 10px 0;">
+                <p><strong>Aseguradora SOAT Container</strong></p>
+                <select id="aseguradora_soat">
+                    <option>SURA</option>
+                    <option>Allianz</option>
+                </select>
+            </div>
+
+            <div id="datos-accidente-container" style="display: none; border: 2px solid orange; padding: 10px; margin: 10px 0;">
+                <p><strong>Datos Accidente Container</strong></p>
+                <input type="text" placeholder="Conductor" />
+            </div>
+        </div>
+    </div>
+
+    <div class="test-section">
+        <h3>3. Log de Acciones</h3>
+        <div id="log" style="background: #f8f9fa; padding: 10px; font-family: monospace; font-size: 12px;"></div>
+    </div>
+
+    <script>
+        function log(msg) {
+            const logDiv = document.getElementById('log');
+            logDiv.innerHTML += new Date().toLocaleTimeString() + ': ' + msg + '<br>';
+        }
+
+        function testVisibility() {
+            const pagador = document.getElementById('pagador').value;
+            log('Pagador seleccionado: ' + pagador);
+
+            const showDatos = pagador === 'SOAT' || pagador === 'ADRES';
+            log('showDatos = ' + showDatos);
+
+            // Contenedor principal
+            const datosSoat = document.getElementById('datos-soat');
+            if (datosSoat) {
+                datosSoat.style.display = showDatos ? 'block' : 'none';
+                log('datos-soat display = ' + datosSoat.style.display);
+            }
+
+            // Sub-contenedores
+            const aseguradoraContainer = document.getElementById('aseguradora-soat-container');
+            if (aseguradoraContainer) {
+                aseguradoraContainer.style.display = showDatos ? 'block' : 'none';
+                log('aseguradora-soat-container display = ' + aseguradoraContainer.style.display);
+            }
+
+            const accidenteContainer = document.getElementById('datos-accidente-container');
+            if (accidenteContainer) {
+                accidenteContainer.style.display = showDatos ? 'block' : 'none';
+                log('datos-accidente-container display = ' + accidenteContainer.style.display);
+            }
+
+            log('--- Fin de testVisibility ---');
+        }
+
+        // Test inicial
+        log('Página cargada');
+        testVisibility();
+    </script>
+</body>
+</html>

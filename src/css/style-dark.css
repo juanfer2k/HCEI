@@ -1,0 +1,398 @@
+/* Dark Theme Styles */
+[data-bs-theme="dark"] body {
+    background-color: #1c1e22;
+    /* Un gris muy oscuro, casi negro pero no puro */
+    color: #ced4da;
+    /* Texto gris claro para buena legibilidad */
+}
+
+[data-bs-theme="dark"] .document-view,
+[data-bs-theme="dark"] .card {
+    background-color: #282c34 !important;
+    /* Un gris azulado para los contenedores */
+    color: #ced4da;
+    border: 1px solid #3e444c;
+    /* Borde sutil */
+}
+
+/* Eliminar fondo claro específico de .form-container en modo oscuro: usar transparencia para integrarse con el layout */
+[data-bs-theme="dark"] .form-container {
+    background-color: transparent !important;
+    color: #ced4da;
+    border: 1px solid #3e444c !important;
+    /* keep a visible base border */
+    box-shadow: none !important;
+}
+
+[data-bs-theme="dark"] .navbar {
+    background-color: #282c34 !important;
+    border-bottom: 1px solid #3e444c;
+}
+
+[data-bs-theme="dark"] .form-control,
+[data-bs-theme="dark"] .form-select {
+    background-color: #2a3038;
+    /* Fondo igual al del body para integracion */
+    color: #e1e1e1;
+    border-color: #555c66;
+    /* Borde un poco mas visible */
+}
+
+[data-bs-theme="dark"] .form-control:focus,
+[data-bs-theme="dark"] .form-select:focus {
+    background-color: #282c34;
+    color: #fff;
+    border-color: #80bdff;
+    /* Un azul suave para el foco */
+    box-shadow: 0 0 0 .25rem rgba(13, 110, 253, .15);
+    /* Sombra mas sutil */
+}
+
+[data-bs-theme="dark"] .section-header {
+    background-color: rgba(255, 255, 255, 0.03);
+    border-bottom-color: #555c66;
+}
+
+[data-bs-theme="dark"] .section-header h3 {
+    color: #a9d1ff;
+    /* Un azul mas claro y suave */
+}
+
+[data-bs-theme="dark"] .field-label,
+[data-bs-theme="dark"] .card-title,
+[data-bs-theme="dark"] .card-text,
+[data-bs-theme="dark"] .page-link,
+[data-bs-theme="dark"] label,
+[data-bs-theme="dark"] .form-check-label {
+    color: #adb5bd;
+    /* Gris claro para etiquetas, mejor legibilidad */
+}
+
+/* Estilo para las etiquetas de campo en la vista de detalle (modo oscuro) */
+[data-bs-theme="dark"] .field-label {
+    background-color: #2a3038;
+    padding: 3px 6px;
+    border-radius: 4px;
+    border: 1px solid #4a5159;
+    color: #a9d1ff;
+    /* Mismo azul suave que los titulos de seccion */
+}
+
+/* Estilo para los valores de campo en la vista de detalle (modo oscuro) */
+[data-bs-theme="dark"] .document-view .field-value {
+    background-color: #4a4a4a !important;
+    border-radius: 4px !important;
+    padding: 8px !important;
+    min-height: 38px !important;
+    color: #d1deff !important;
+}
+
+[data-bs-theme="dark"] .signature-pad {
+    background-color: #e1e1e1;
+    /* Fondo claro para la firma, para que el trazo oscuro resalte */
+}
+
+[data-bs-theme="dark"] .dropdown-menu {
+    background-color: #282c34;
+    border-color: #4a5159;
+}
+
+[data-bs-theme="dark"] .dropdown-item {
+    color: #adb5bd;
+}
+
+[data-bs-theme="dark"] .dropdown-item:hover {
+    background-color: #495057;
+}
+
+/* === Fondos y Bordes por tipo de servicio === */
+[data-bs-theme="dark"] .form-section {
+    background: #282c34;
+    /* Fondo de sección uniforme */
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03), 0 4px 12px -8px rgba(0, 0, 0, 0.7);
+    transition: border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+[data-bs-theme="dark"] .form-section:hover {
+    border-color: #555c66;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04), 0 8px 18px -12px rgba(0, 0, 0, 0.8);
+}
+
+[data-bs-theme="dark"] .btn-outline-primary {
+    color: #a6cfff;
+    border-color: #a6cfff;
+}
+
+[data-bs-theme="dark"] .btn-outline-primary:hover {
+    background-color: #a6cfff;
+    color: #2a3038;
+}
+
+[data-bs-theme="dark"] .page-item.active .page-link {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    color: #fff;
+}
+
+[data-bs-theme="dark"] .page-link {
+    background-color: #2a3038;
+    border-color: #4a5159;
+}
+
+[data-bs-theme="dark"] .fixed-bottom {
+    background-color: #282c34 !important;
+    border-top: 1px solid #4a5159;
+}
+
+/* Overrides for TAB/TAM/APH buttons in dark mode */
+[data-bs-theme="dark"] .btn-tabtam {
+    background: rgba(120, 130, 140, 0.15);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+}
+
+[data-bs-theme="dark"] .btn-tabtam:hover {
+    box-shadow: 0 10px 18px rgba(0, 0, 0, 0.3);
+}
+
+[data-bs-theme="dark"] .btn-tabtam--tab {
+    color: #a9d1ff;
+    /* Light blue text */
+    background: color-mix(in srgb, #a9d1ff 15%, transparent);
+}
+
+[data-bs-theme="dark"] .btn-tabtam--tam {
+    color: #ffb3b3;
+    /* Light red text */
+    background: color-mix(in srgb, #ffb3b3 15%, transparent);
+}
+
+[data-bs-theme="dark"] .btn-tabtam--aph {
+    color: #fff5a6;
+    /* Light yellow text */
+    background: color-mix(in srgb, #fff5a6 18%, transparent);
+}
+
+[data-bs-theme="dark"] .btn-tabtam--tab.active {
+    background: var(--color-tab);
+    color: #fff;
+}
+
+[data-bs-theme="dark"] .btn-tabtam--tam.active {
+    background: var(--color-tam);
+    color: #fff;
+}
+
+[data-bs-theme="dark"] .btn-tabtam--aph.active {
+    background: var(--color-aph);
+    color: #313100;
+}
+
+/* Colores planos por sección en modo oscuro - tonos oscurecidos */
+[data-bs-theme="dark"] .form-section.internal {
+    background-color: #3a3a3a;
+    /* Gris oscuro */
+}
+
+[data-bs-theme="dark"] .form-section.insurance {
+    background-color: #2d3a28;
+    /* Verde oscuro */
+}
+
+[data-bs-theme="dark"] .form-section.patient {
+    background-color: #3a2d3d;
+    /* Púrpura oscuro */
+}
+
+[data-bs-theme="dark"] .form-section.context {
+    background-color: #3d3528;
+    /* Naranja oscuro */
+}
+
+[data-bs-theme="dark"] .form-section.clinical {
+    background-color: #283a38;
+    /* Verde azulado oscuro */
+}
+
+[data-bs-theme="dark"] .form-section.glasgow {
+    background-color: #3d3d28;
+    /* Amarillo oscuro */
+}
+
+[data-bs-theme="dark"] .form-section.antecedentes {
+    background-color: #3a2d33;
+    /* Rosa oscuro */
+}
+
+[data-bs-theme="dark"] .form-section.oxigeno {
+    background-color: #2d3540;
+    /* Azul oscuro */
+}
+
+[data-bs-theme="dark"] .form-section.firmas {
+    background-color: #353a3d;
+    /* Gris oscuro */
+}
+
+[data-bs-theme="dark"] .form-section.adjuntos {
+    background-color: #3a3a3a;
+    /* Gris oscuro */
+}
+
+/* Service-type borders in dark mode */
+[data-bs-theme="dark"] #clinical-form.theme--tab .form-container,
+[data-bs-theme="dark"] #clinical-form.theme--tab .form-section {
+    border-color: color-mix(in srgb, var(--color-tab) 65%, #0a0a0a 35%);
+}
+
+[data-bs-theme="dark"] #clinical-form.theme--tam .form-container,
+[data-bs-theme="dark"] #clinical-form.theme--tam .form-section {
+    border-color: color-mix(in srgb, var(--color-tam) 65%, #0a0a0a 35%);
+}
+
+[data-bs-theme="dark"] #clinical-form.theme--aph .form-container,
+[data-bs-theme="dark"] #clinical-form.theme--aph .form-section {
+    border-color: color-mix(in srgb, var(--color-aph) 65%, #0a0a0a 35%);
+}
+
+/* Header accent per service type in dark */
+[data-bs-theme="dark"] #clinical-form.theme--tab .section-header {
+    border-left-color: var(--color-tab);
+}
+
+[data-bs-theme="dark"] #clinical-form.theme--tam .section-header {
+    border-left-color: var(--color-tam);
+}
+
+[data-bs-theme="dark"] #clinical-form.theme--aph .section-header {
+    border-left-color: var(--color-aph);
+}
+
+/* form.css | css/form.css 
+[data-bs-theme="dark"] .form-control, .form-select, .form-textarea {
+background: linear-gradient(135deg, #171717, color-mix(in srgb, var(--form-accent) 4%, #3c3c3c));
+*/
+
+/* === Estilos para Inventario y Consulta (modo claro y oscuro) === */
+
+/* Colores base para los bordes */
+:root {
+    --color-tab-border: #3b82f6;
+    /* Azul */
+    --color-tam-border: #ef4444;
+    /* Rojo */
+}
+
+/* Bordes de tarjetas por tipo en modo claro */
+.inventory-card.theme-tab,
+.card-detalle.theme-tab {
+    border-left: 3px solid var(--color-tab-border);
+}
+
+.inventory-card.theme-tam,
+.card-detalle.theme-tam {
+    border-left: 3px solid var(--color-tam-border);
+}
+
+/* Refuerzos en modo oscuro */
+[data-bs-theme="dark"] .inventory-card.theme-tab,
+[data-bs-theme="dark"] .card-detalle.theme-tab {
+    border-left: 3px solid var(--color-tab-border);
+}
+
+[data-bs-theme="dark"] .inventory-card.theme-tam,
+[data-bs-theme="dark"] .card-detalle.theme-tam {
+    border-left: 3px solid var(--color-tam-border);
+}
+
+[data-bs-theme="dark"] .inventory-header,
+[data-bs-theme="dark"] .history-card .card-header,
+[data-bs-theme="dark"] .detalle-header {
+    background: #212529;
+    color: #e9ecef;
+    border-bottom-color: #495057;
+}
+
+[data-bs-theme="dark"] .inventory-header h2,
+[data-bs-theme="dark"] .history-card .card-header,
+[data-bs-theme="dark"] .detalle-header h4 {
+    color: #f8f9fa;
+}
+
+[data-bs-theme="dark"] .inventory-header p,
+[data-bs-theme="dark"] .detalle-header p {
+    color: #adb5bd;
+}
+
+[data-bs-theme="dark"] .history-card .list-group-item {
+    background-color: #2c3038;
+    border-color: #495057;
+}
+
+/* Historial guardado: fondo más oscuro y contraste para destacar entradas guardadas */
+[data-bs-theme="dark"] .history-card.saved,
+[data-bs-theme="dark"] .history-saved,
+[data-bs-theme="dark"] .history-card .list-group-item.saved {
+    background-color: #1f2326 !important;
+    border-color: #34393f !important;
+    color: #dfe7ea !important;
+}
+
+[data-bs-theme="dark"] .section-card {
+    background: #2c3038;
+    border-color: #495057;
+}
+
+[data-bs-theme="dark"] .section-card h5 {
+    background: #343a42;
+    color: #e9ecef;
+}
+
+[data-bs-theme="dark"] .inventory-table thead th {
+    background: #343a42;
+    color: #e9ecef;
+    border-bottom-color: #495057;
+}
+
+[data-bs-theme="dark"] .inventory-table tbody td {
+    background-color: #2c3038;
+    color: #ced4da;
+    border-color: #495057;
+}
+
+[data-bs-theme="dark"] .inventory-table tbody tr:hover td {
+    background-color: #3a4049;
+}
+
+[data-bs-theme="dark"] .estado-toggle {
+    background: #212529;
+}
+
+[data-bs-theme="dark"] .estado-toggle label {
+    color: #adb5bd;
+}
+
+[data-bs-theme="dark"] .estado-toggle input[type="radio"]:checked+label {
+    border-color: #0d6efd;
+    background: rgba(13, 110, 253, 0.2);
+    color: #a9d1ff;
+}
+
+[data-bs-theme="dark"] .estado-badge {
+    color: #212529;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+[data-bs-theme="dark"] .estado-bueno {
+    background-color: #28a745;
+    color: #fff;
+}
+
+[data-bs-theme="dark"] .estado-regular {
+    background-color: #ffc107;
+    color: #212529;
+}
+
+[data-bs-theme="dark"] .estado-malo {
+    background-color: #dc3545;
+    color: #fff;
+}

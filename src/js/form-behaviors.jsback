@@ -1,0 +1,151 @@
+/**
+ * form-behaviors.js
+ * Controla guardado parcial, navegación y finalización de atención.
+ * Compatible con index_v4.php (vistas incluidas secuencialmente).
+ */
+
+(function (window) {
+  'use strict';
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const form = document.getElementById('clinical-form');
+    if (!form) {
+      console.warn('⚠️ No se encontró el formulario principal (#clinical-form).');
+      return;
+    }
+
+    // Detectar todas las secciones visibles en el formulario
+    const sections = Array.from(form.querySelectorAll('section'));
+    if (!sections.length) {
+      console.warn('⚠️ No se encontraron secciones <section> dentro del formulario.');
+      return;
+    }
+
+    let currentStep = 0;
+    let atencionId = localStorage.getItem('atencion_id') || null;
+
+    const btnNext = document.querySelector('.btn-next');
+    const btnPrev = document.querySelector('.btn-prev');
+    const btnFinalizar = document.getElementById('btnFinalizar');
+
+    // Mostrar solo la sección actual
+    function showStep(index) {
+      sections.forEach((sec, i) => {
+        sec.style.display = i === index ? 'block' : 'none';
+      });
+      btnPrev.disabled = index === 0;
+      btnNext.style.display = index === sections.length - 1 ? 'none' : 'inline-block';
+      btnFinalizar.classList.toggle('d-none', index !== sections.length - 1);
+    }
+
+    // Enviar los datos parciales de la sección actual
+    async function guardarParcial(index) {
+      const section = sections[index];
+      if (!section) return;
+
+      const inputs = section.querySelectorAll('input, select, textarea');
+      const data = {};
+      inputs.forEach(el => data[el.name] = el.value.trim());
+
+      localStorage.setItem(`section_${index}`, JSON.stringify(data));
+
+      try {
+        const res = await fetch('procesos/guardar_parcial.php', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+          body: new URLSearchParams({
+            id: atencionId || '',
+            seccion: index + 1,
+            data: JSON.stringify(data)
+          })
+        });
+
+        const json = await res.json();
+        if (json.success) {
+          atencionId = json.id;
+          localStorage.setItem('atencion_id', json.id);
+          console.log(`✅ Sección ${index + 1} guardada (${json.id})`);
+        } else {
+          console.warn('⚠️ Error al guardar sección:', json.message);
+        }
+      } catch (e) {
+        console.error('Sin conexión — se guardó localmente:', e);
+      }
+    }
+
+    // Navegación entre secciones
+    if (btnNext) {
+      btnNext.addEventListener('click', async () => {
+        await guardarParcial(currentStep);
+        if (currentStep < sections.length - 1) {
+          currentStep++;
+          showStep(currentStep);
+        }
+      });
+    }
+
+    if (btnPrev) {
+      btnPrev.addEventListener('click', () => {
+        if (currentStep > 0) {
+          currentStep--;
+          showStep(currentStep);
+        }
+      });
+    }
+
+    // Finalizar atención
+    if (btnFinalizar) {
+      btnFinalizar.addEventListener('click', async () => {
+        const id = localStorage.getItem('atencion_id');
+        if (!id) {
+          alert('No hay una atención activa para finalizar.');
+          return;
+        }
+
+        if (!confirm('¿Desea finalizar la atención y bloquear la edición?')) return;
+
+        try {
+          const res = await fetch(`procesos/finalizar_atencion.php?id=${id}`);
+          const json = await res.json();
+          if (json.success) {
+            alert('✅ Atención finalizada correctamente.');
+            localStorage.removeItem('atencion_id');
+            window.location.href = 'consulta_atenciones.php';
+          } else {
+            alert('⚠️ ' + json.message);
+          }
+        } catch (e) {
+          alert('Error de conexión al finalizar la atención.');
+        }
+      });
+    }
+
+    // Iniciar vista
+    showStep(0);
+
+    // Calcular IMC
+    const pesoInput = document.getElementById('peso');
+    const tallaInput = document.getElementById('talla');
+    const imcField = document.getElementById('imc');
+    const riesgoField = document.getElementById('imc-riesgo');
+
+    function calcularIMC() {
+      const peso = parseFloat(pesoInput?.value || 0);
+      const talla = parseFloat(tallaInput?.value || 0) / 100;
+      if (peso > 0 && talla > 0) {
+        const imc = peso / (talla * talla);
+        if (imcField) imcField.value = imc.toFixed(1);
+        if (riesgoField) {
+          if (imc < 18.5) riesgoField.textContent = 'Bajo peso';
+          else if (imc < 25) riesgoField.textContent = 'Normal';
+          else if (imc < 30) riesgoField.textContent = 'Sobrepeso';
+          else riesgoField.textContent = 'Obesidad';
+        }
+      }
+    }
+
+    pesoInput?.addEventListener('input', calcularIMC);
+    tallaInput?.addEventListener('input', calcularIMC);
+
+  });
+})(window);

@@ -1,0 +1,36 @@
+conn.php
+conn2.php
+conn3.php
+elcerrit_firma3.sql
+elcerrit_firma4.sql
+sql/atenciones_v2.sql
+config.local.php
+# Config local / editor
+.vscode/
+settings.json
+config.local.php
+
+# Logs y temporales
+error_log
+error_log.txt
+debug.log
+tmp/
+uploads/
+
+# Backups / copias locales
+*.bak
+*.bak*
+*.old.php
+index.php1
+index_copia*
+index_old_main.php
+obtener_detalle_furtran.bak*
+DESCRIBE atenciones*
+Inventario.txt
+
+# Dumps SQL / estructura local
+*.sql
+sql/
+
+# Historicos generados (si no los quieres versionar)
+historico/
