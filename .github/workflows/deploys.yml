@@ -1,0 +1,42 @@
+name: Deploy to cPanel
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: FTP Deploy (Incremental)
+        uses: SamKirkland/FTP-Deploy-Action@4.3.3
+        with:
+          server: ftp.araico.com.co
+          username: elcerrit
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+
+          # Carpeta destino en cPanel
+          server-dir: /public_html/firma/
+
+          # Activar deploy incremental 100%
+          exclude: |
+            **/.git*
+            **/.github*
+            .cpanel.yml
+            conn.php
+            **/.ftp-deploy-sync-state.json
+
+          # Nombre del archivo donde se guarda el estado incremental
+          state-name: .ftp-deploy-sync-state.json
+
+          # No borrar todo si falla el estado
+          dangerous-clean-slate: false
+
+          # Mejor depuración
+          log-level: verbose

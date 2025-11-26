@@ -2,8 +2,16 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/elcerrit/public_html/HCEI
-    - /bin/rsync -av --delete \
-        --exclude='.git' \
-        --exclude='.cpanel.yml' \
-        --exclude='conn.php' \
-        ./ $DEPLOYPATH
+    - /bin/echo "Deploying to $DEPLOYPATH"
+
+    # Crear carpeta si no existe
+    - /bin/mkdir -p $DEPLOYPATH
+
+    # Copiar TODO el proyecto al public_html/HCEI
+    - /bin/rsync -av --delete --exclude='.git' --exclude='.cpanel' ./ $DEPLOYPATH/
+
+    # Permisos recomendados
+    - /bin/find $DEPLOYPATH -type d -exec chmod 755 {} \;
+    - /bin/find $DEPLOYPATH -type f -exec chmod 644 {} \;
+
+    - /bin/echo "Deploy completo con éxito."
