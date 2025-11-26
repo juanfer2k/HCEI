@@ -2,11 +2,8 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/elcerrit/public_html/HCEI
-
-    # Copia todos los archivos EXCEPTO los sensibles o de ambiente
     - /bin/rsync -av --delete \
         --exclude='.git' \
         --exclude='.cpanel.yml' \
         --exclude='conn.php' \
-        --exclude='config/' \
         ./ $DEPLOYPATH
