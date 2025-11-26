@@ -1,4 +1,4 @@
-# Registro de Atención a Pacientes (RAP) - HCEI Colombia
+# Registro de Atención a Pacientes RDA / HCEI en Colombia
 
 Autor: Juanfer2K [el] (elcerritovalle.org)
 Versión Actual: 3.5
