@@ -1,8 +1,5 @@
 ---
 deployment:
   tasks:
-    # Ruta donde cPanel debe desplegar (tu public_html/HCEI)
     - export DEPLOYPATH=/home/elcerrit/public_html/HCEI
-
-    # Limpia archivos antiguos que ya no existan en el repo
     - /bin/rsync -av --delete --exclude='.git' --exclude='.cpanel.yml' ./ $DEPLOYPATH
